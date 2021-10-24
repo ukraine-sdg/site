@@ -49,6 +49,102 @@
   },
   {
     "goal": {
+      "id": "2",
+      "title": "Poner fin al hambre, lograr la seguridad alimentaria y la mejora de la nutrición y promover la agricultura sostenible",
+      "indicators": [
+        
+        {
+          "id": "2-1-1",
+          "title": "Prevalencia de la subalimentación",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/2-1-1",
+          "status": "complete"
+        },
+        {
+          "id": "2-1-2",
+          "title": "Prevalencia de la inseguridad alimentaria moderada o grave entre la población, según la escala de experiencia de inseguridad alimentaria",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/2-1-2",
+          "status": "complete"
+        },
+        {
+          "id": "2-1-3",
+          "title": "global_indicators.2-1-3-title",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/2-1-3",
+          "status": "complete"
+        },
+        {
+          "id": "2-1-4",
+          "title": "global_indicators.2-1-4-title",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/2-1-4",
+          "status": "complete"
+        },
+        {
+          "id": "2-1-5",
+          "title": "global_indicators.2-1-5-title",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/2-1-5",
+          "status": "complete"
+        },
+        {
+          "id": "2-2-1",
+          "title": "Prevalencia del retraso del crecimiento (estatura para la edad, desviación típica < -2 de la mediana de los patrones de crecimiento infantil de la Organización Mundial de la Salud (OMS)) entre los niños menores de 5 años",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/2-2-1",
+          "status": "complete"
+        },
+        {
+          "id": "2-2-2",
+          "title": "Prevalencia de la malnutrición (peso para la estatura, desviación típica > +2 o < -2 de la mediana de los patrones de crecimiento infantil de la OMS) entre los niños menores de 5 años, desglosada por tipo (emaciación y sobrepeso)",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/2-2-2",
+          "status": "complete"
+        },
+        {
+          "id": "2-3-1",
+          "title": "Volumen de producción por unidad de trabajo desglosado por tamaño y tipo de explotación (agropecuaria/ganadera/forestal)",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/2-3-1",
+          "status": "complete"
+        },
+        {
+          "id": "2-3-2",
+          "title": "Media de ingresos de los productores de alimentos en pequeña escala, desglosada por sexo y condición indígena",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/2-3-2",
+          "status": "complete"
+        },
+        {
+          "id": "2-3-3",
+          "title": "global_indicators.2-3-3-title",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/2-3-3",
+          "status": "complete"
+        },
+        {
+          "id": "2-4-1",
+          "title": "Proporción de la superficie agrícola en que se practica una agricultura productiva y sostenible",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/2-4-1",
+          "status": "complete"
+        }]
+    }
+  },
+  {
+    "goal": {
       "id": "meta_1",
       "title": "global_goals.meta_1-title",
       "indicators": [
