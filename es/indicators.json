@@ -686,19 +686,19 @@
           "status": "complete"
         },
         {
+          "id": "7-2-1",
+          "title": "Proporción de energía renovable en el consumo final total de energía",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/7-2-1",
+          "status": "complete"
+        },
+        {
           "id": "7-2-2",
           "title": "global_indicators.7-2-2-title",
           "description": "",
           "keywords": "",
           "href": "/site/es/7-2-2",
-          "status": "complete"
-        },
-        {
-          "id": "7-2-1 ",
-          "title": "global_indicators.7-2-1 -title",
-          "description": "",
-          "keywords": "",
-          "href": "/site/es/7-2-1 ",
           "status": "complete"
         },
         {
@@ -955,6 +955,78 @@
           "description": "",
           "keywords": "",
           "href": "/site/es/9-7-1",
+          "status": "complete"
+        }]
+    }
+  },
+  {
+    "goal": {
+      "id": "10",
+      "title": "Reducir la desigualdad en los países y entre ellos",
+      "indicators": [
+        
+        {
+          "id": "10-1-1",
+          "title": "Tasas de crecimiento per cápita de los gastos o ingresos de los hogares del 40% más pobre de la población y la población total",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/10-1-1",
+          "status": "complete"
+        },
+        {
+          "id": "10-1-2",
+          "title": "global_indicators.10-1-2-title",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/10-1-2",
+          "status": "complete"
+        },
+        {
+          "id": "10-2-1",
+          "title": "Proporción de personas que viven por debajo del 50% de la mediana de los ingresos, desglosada por sexo, edad y personas con discapacidad",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/10-2-1",
+          "status": "complete"
+        },
+        {
+          "id": "10-3-1",
+          "title": "Proporción de la población que declara haberse sentido personalmente discriminada o acosada en los últimos 12 meses por motivos de discriminación prohibidos por el derecho internacional de los derechos humanos",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/10-3-1",
+          "status": "complete"
+        },
+        {
+          "id": "10-3-2",
+          "title": "global_indicators.10-3-2-title",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/10-3-2",
+          "status": "complete"
+        },
+        {
+          "id": "10-3-3",
+          "title": "global_indicators.10-3-3-title",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/10-3-3",
+          "status": "complete"
+        },
+        {
+          "id": "10-4-1",
+          "title": "Proporción del PIB generada por el trabajo",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/10-4-1",
+          "status": "complete"
+        },
+        {
+          "id": "10-5-1",
+          "title": "Indicadores de solidez financiera",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/10-5-1",
           "status": "complete"
         }]
     }
