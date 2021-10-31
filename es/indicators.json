@@ -7,7 +7,7 @@
         
         {
           "id": "1-1-1",
-          "title": "Proporción de la población que vive por debajo del umbral internacional de pobreza, desglosada por sexo, edad, situación laboral y ubicación geográfica (urbana o rural)",
+          "title": "Share of the population whose average per capita equivalent total expenditure is lower than the actual (estimated) subsistence minimum, %",
           "description": "",
           "keywords": "",
           "href": "/site/es/1-1-1",
@@ -15,7 +15,7 @@
         },
         {
           "id": "1-1-2",
-          "title": "global_indicators.1-1-2-title",
+          "title": "Share of individuals whose daily consumption is below USD 5.05 PPP, %",
           "description": "",
           "keywords": "",
           "href": "/site/es/1-1-2",
