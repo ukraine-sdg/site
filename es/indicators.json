@@ -7,43 +7,43 @@
         
         {
           "id": "1-1-1",
-          "title": "Share of the population whose average per capita equivalent total expenditure is lower than the actual (estimated) subsistence minimum, %",
+          "title": "Proporción de la población que vive por debajo del umbral internacional de pobreza, desglosada por sexo, edad, situación laboral y ubicación geográfica (urbana o rural)",
           "description": "",
           "keywords": "",
           "href": "/site/es/1-1-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "1-1-2",
-          "title": "Share of individuals whose daily consumption is below USD 5.05 PPP, %",
+          "title": "global_indicators.1-1-2-title",
           "description": "",
           "keywords": "",
           "href": "/site/es/1-1-2",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "1-2-1",
-          "title": "Share of the poor population covered by state social support in the total number of poor people, %",
+          "title": "Proporción de la población que vive por debajo del umbral nacional de pobreza, desglosada por sexo y edad",
           "description": "",
           "keywords": "",
           "href": "/site/es/1-2-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "1-3-1",
-          "title": "Ratio of poverty levels of households with children and households without children, times",
+          "title": "Proporción de la población cubierta por sistemas o niveles mínimos de protección social, desglosada por sexo, distinguiendo entre los niños, los desempleados, los ancianos, las personas con discapacidad, las mujeres embarazadas, los recién nacidos, las víctimas de accidentes de trabajo, los pobres y los vulnerables",
           "description": "",
           "keywords": "",
           "href": "/site/es/1-3-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "1-3-2",
-          "title": "Share of food expenditure in total household spending, %",
+          "title": "global_indicators.1-3-2-title",
           "description": "",
           "keywords": "",
           "href": "/site/es/1-3-2",
-          "status": "notstarted"
+          "status": "complete"
         }]
     }
   },
@@ -55,91 +55,91 @@
         
         {
           "id": "2-1-1",
-          "title": "Consumption of meat per capita, kg/year",
+          "title": "Prevalencia de la subalimentación",
           "description": "",
           "keywords": "",
           "href": "/site/es/2-1-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "2-1-2",
-          "title": "Consumption of milk and dairy products per capita, kg/year",
+          "title": "Prevalencia de la inseguridad alimentaria moderada o grave entre la población, según la escala de experiencia de inseguridad alimentaria",
           "description": "",
           "keywords": "",
           "href": "/site/es/2-1-2",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "2-1-3",
-          "title": "Consumption of fish per capita, kg/year",
+          "title": "global_indicators.2-1-3-title",
           "description": "",
           "keywords": "",
           "href": "/site/es/2-1-3",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "2-1-4",
-          "title": "Consumption of vegetables per capita, kg/year",
+          "title": "global_indicators.2-1-4-title",
           "description": "",
           "keywords": "",
           "href": "/site/es/2-1-4",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "2-1-5",
-          "title": "Consumption of fruit per capita, kg/year",
+          "title": "global_indicators.2-1-5-title",
           "description": "",
           "keywords": "",
           "href": "/site/es/2-1-5",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "2-2-1",
-          "title": "Labour productivity in agriculture, USD 1,000s per employee",
+          "title": "Prevalencia del retraso del crecimiento (estatura para la edad, desviación típica < -2 de la mediana de los patrones de crecimiento infantil de la Organización Mundial de la Salud (OMS)) entre los niños menores de 5 años",
           "description": "",
           "keywords": "",
           "href": "/site/es/2-2-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "2-2-2",
-          "title": "The index of agricultural production, %",
+          "title": "Prevalencia de la malnutrición (peso para la estatura, desviación típica > +2 o < -2 de la mediana de los patrones de crecimiento infantil de la OMS) entre los niños menores de 5 años, desglosada por tipo (emaciación y sobrepeso)",
           "description": "",
           "keywords": "",
           "href": "/site/es/2-2-2",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "2-3-1",
-          "title": "The index of food production, %",
+          "title": "Volumen de producción por unidad de trabajo desglosado por tamaño y tipo de explotación (agropecuaria/ganadera/forestal)",
           "description": "",
           "keywords": "",
           "href": "/site/es/2-3-1",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "2-3-2",
-          "title": "Share of food industry and agricultural raw materials processing production in exports of Ukrainian Classifier of Goods for Foreign Economic Activity groups 1–24, %",
+          "title": "Media de ingresos de los productores de alimentos en pequeña escala, desglosada por sexo y condición indígena",
           "description": "",
           "keywords": "",
           "href": "/site/es/2-3-2",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "2-3-3",
-          "title": "Share of agricultural land under organic production in the total area of agricultural land, %",
+          "title": "global_indicators.2-3-3-title",
           "description": "",
           "keywords": "",
           "href": "/site/es/2-3-3",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "2-4-1",
-          "title": "The consumer price index for food, %",
+          "title": "Proporción de la superficie agrícola en que se practica una agricultura productiva y sostenible",
           "description": "",
           "keywords": "",
           "href": "/site/es/2-4-1",
-          "status": "notstarted"
+          "status": "complete"
         }]
     }
   },
