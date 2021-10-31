@@ -1033,6 +1033,550 @@
   },
   {
     "goal": {
+      "id": "11",
+      "title": "Lograr que las ciudades y los asentamientos humanos sean inclusivos, seguros, resilientes y sostenibles",
+      "indicators": [
+        
+        {
+          "id": "11-1-1",
+          "title": "Proporción de la población urbana que vive en barrios marginales, asentamientos informales o viviendas inadecuadas",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/11-1-1",
+          "status": "complete"
+        },
+        {
+          "id": "11-1-2",
+          "title": "global_indicators.11-1-2-title",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/11-1-2",
+          "status": "complete"
+        },
+        {
+          "id": "11-3-1",
+          "title": "Relación entre la tasa de consumo de tierras y la tasa de crecimiento de la población",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/11-3-1",
+          "status": "complete"
+        },
+        {
+          "id": "11-3-2",
+          "title": "Proporción de ciudades que cuentan con una estructura de participación directa de la sociedad civil en la planificación y la gestión urbanas y funcionan con regularidad y democráticamente",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/11-3-2",
+          "status": "complete"
+        },
+        {
+          "id": "11-3-3",
+          "title": "global_indicators.11-3-3-title",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/11-3-3",
+          "status": "complete"
+        },
+        {
+          "id": "11-4-1",
+          "title": "Total de gastos per cápita destinados a la preservación, protección y conservación de todo el patrimonio cultural y natural, desglosado por fuente de financiación (pública y privada), tipo de patrimonio (cultural y natural) y nivel de gobierno (nacional, regional y local/municipal)",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/11-4-1",
+          "status": "complete"
+        },
+        {
+          "id": "11-5-1",
+          "title": "Número de personas muertas, desaparecidas y afectadas directamente atribuido a desastres por cada 100.000 personas",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/11-5-1",
+          "status": "complete"
+        },
+        {
+          "id": "11-5-2",
+          "title": "Pérdidas económicas directas en relación con el PIB mundial, daños en la infraestructura esencial y número de interrupciones de los servicios básicos atribuidos a desastres",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/11-5-2",
+          "status": "complete"
+        },
+        {
+          "id": "11-6-1",
+          "title": "Proporción de residuos sólidos municipales recogidos y administrados en instalaciones controladas con respecto al total de residuos municipales generados, desglosada por ciudad",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/11-6-1",
+          "status": "complete"
+        }]
+    }
+  },
+  {
+    "goal": {
+      "id": "12",
+      "title": "Garantizar modalidades de consumo y producción sostenibles",
+      "indicators": [
+        
+        {
+          "id": "12-1-1",
+          "title": "Número de países que elaboran, adoptan o aplican instrumentos de política destinados a apoyar la transición hacia modalidades de consumo y producción sostenibles",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/12-1-1",
+          "status": "complete"
+        },
+        {
+          "id": "12-2-1",
+          "title": "Huella material en términos absolutos, huella material per cápita y huella material por PIB",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/12-2-1",
+          "status": "complete"
+        },
+        {
+          "id": "12-2-2",
+          "title": "Consumo material interno en términos absolutos, consumo material interno per cápita y consumo material interno por PIB",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/12-2-2",
+          "status": "complete"
+        },
+        {
+          "id": "12-3-1",
+          "title": "a) Índice de pérdidas de alimentos y b) índice de desperdicio de alimentos",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/12-3-1",
+          "status": "complete"
+        },
+        {
+          "id": "12-4-1",
+          "title": "Número de partes en los acuerdos ambientales multilaterales internacionales sobre desechos peligrosos y otros productos químicos que cumplen sus compromisos y obligaciones de transmitir información como se exige en cada uno de esos acuerdos",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/12-4-1",
+          "status": "complete"
+        },
+        {
+          "id": "12-4-2",
+          "title": "a) Desechos peligrosos generados per cápita y b) proporción de desechos peligrosos tratados, desglosados por tipo de tratamiento",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/12-4-2",
+          "status": "complete"
+        }]
+    }
+  },
+  {
+    "goal": {
+      "id": "13",
+      "title": "Adoptar medidas urgentes para combatir el cambio climático y sus efectos",
+      "indicators": [
+        
+        {
+          "id": "13-1-1",
+          "title": "Número de personas muertas, desaparecidas y afectadas directamente atribuido a desastres por cada 100.000 personas",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/13-1-1",
+          "status": "complete"
+        }]
+    }
+  },
+  {
+    "goal": {
+      "id": "14",
+      "title": "Conservar y utilizar sosteniblemente los océanos, los mares y los recursos marinos para el desarrollo sostenible",
+      "indicators": [
+        
+        {
+          "id": "14-1-1",
+          "title": "a) Índice de eutrofización costera; y b) densidad de detritos plásticos",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/14-1-1",
+          "status": "complete"
+        },
+        {
+          "id": "14-2-1",
+          "title": "Número de países que aplican enfoques basados en los ecosistemas para gestionar las zonas marinas",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/14-2-1",
+          "status": "complete"
+        },
+        {
+          "id": "14-2-2",
+          "title": "global_indicators.14-2-2-title",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/14-2-2",
+          "status": "complete"
+        },
+        {
+          "id": "14-3-1",
+          "title": "Acidez media del mar (pH) medida en un conjunto convenido de estaciones de muestreo representativas",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/14-3-1",
+          "status": "complete"
+        }]
+    }
+  },
+  {
+    "goal": {
+      "id": "15",
+      "title": "Proteger, restablecer y promover el uso sostenible de los ecosistemas terrestres, gestionar sosteniblemente los bosques, luchar contra la desertificación, detener e invertir la degradación de las tierras y detener la pérdida de biodiversidad",
+      "indicators": [
+        
+        {
+          "id": "15-1-1",
+          "title": "Superficie forestal en proporción a la superficie total",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/15-1-1",
+          "status": "complete"
+        },
+        {
+          "id": "15-1-2",
+          "title": "Proporción de lugares importantes para la biodiversidad terrestre y del agua dulce incluidos en zonas protegidas, desglosada por tipo de ecosistema",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/15-1-2",
+          "status": "complete"
+        },
+        {
+          "id": "15-1-3",
+          "title": "global_indicators.15-1-3-title",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/15-1-3",
+          "status": "complete"
+        },
+        {
+          "id": "15-2-1",
+          "title": "Avances hacia la gestión forestal sostenible",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/15-2-1",
+          "status": "complete"
+        },
+        {
+          "id": "15-2-2",
+          "title": "global_indicators.15-2-2-title",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/15-2-2",
+          "status": "complete"
+        },
+        {
+          "id": "15-3-1",
+          "title": "Proporción de tierras degradadas en comparación con la superficie total",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/15-3-1",
+          "status": "complete"
+        },
+        {
+          "id": "15-3-2",
+          "title": "global_indicators.15-3-2-title",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/15-3-2",
+          "status": "complete"
+        },
+        {
+          "id": "15-3-3",
+          "title": "global_indicators.15-3-3-title",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/15-3-3",
+          "status": "complete"
+        },
+        {
+          "id": "15-3-4",
+          "title": "global_indicators.15-3-4-title",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/15-3-4",
+          "status": "complete"
+        },
+        {
+          "id": "15-3-5",
+          "title": "global_indicators.15-3-5-title",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/15-3-5",
+          "status": "complete"
+        },
+        {
+          "id": "15-3-6",
+          "title": "global_indicators.15-3-6-title",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/15-3-6",
+          "status": "complete"
+        },
+        {
+          "id": "15-4-1",
+          "title": "Lugares importantes para la biodiversidad de las montañas incluidos en zonas protegidas",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/15-4-1",
+          "status": "complete"
+        },
+        {
+          "id": "15-4-2",
+          "title": "Índice de cobertura verde de las montañas",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/15-4-2",
+          "status": "complete"
+        }]
+    }
+  },
+  {
+    "goal": {
+      "id": "16",
+      "title": "Promover sociedades pacíficas e inclusivas para el desarrollo sostenible, facilitar el acceso a la justicia para todos y construir a todos los niveles instituciones eficaces e inclusivas que rindan cuentas",
+      "indicators": [
+        
+        {
+          "id": "16-1-1",
+          "title": "Número de víctimas de homicidios intencionales por cada 100.000 habitantes, desglosado por sexo y edad",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/16-1-1",
+          "status": "complete"
+        },
+        {
+          "id": "16-1-2",
+          "title": "Muertes relacionadas con conflictos por cada 100.000 habitantes, desglosadas por sexo, edad y causa",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/16-1-2",
+          "status": "complete"
+        },
+        {
+          "id": "16-1-3",
+          "title": "Proporción de la población que ha sufrido a) violencia física, b) violencia psicológica y c) violencia sexual en los últimos 12 meses",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/16-1-3",
+          "status": "complete"
+        },
+        {
+          "id": "16-2-1",
+          "title": "Proporción de niños de entre 1 y 17 años que han sufrido algún castigo físico o agresión psicológica a manos de sus cuidadores en el último mes",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/16-2-1",
+          "status": "complete"
+        },
+        {
+          "id": "16-2-2",
+          "title": "Número de víctimas de la trata de personas por cada 100.000 habitantes, desglosado por sexo, edad y tipo de explotación",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/16-2-2",
+          "status": "complete"
+        },
+        {
+          "id": "16-2-3",
+          "title": "Proporción de mujeres y hombres jóvenes de entre 18 y 29 años que sufrieron violencia sexual antes de cumplir los 18 años",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/16-2-3",
+          "status": "complete"
+        },
+        {
+          "id": "16-2-4",
+          "title": "global_indicators.16-2-4-title",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/16-2-4",
+          "status": "complete"
+        },
+        {
+          "id": "16-2-5",
+          "title": "global_indicators.16-2-5-title",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/16-2-5",
+          "status": "complete"
+        },
+        {
+          "id": "16-2-6",
+          "title": "global_indicators.16-2-6-title",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/16-2-6",
+          "status": "complete"
+        },
+        {
+          "id": "16-2-7",
+          "title": "global_indicators.16-2-7-title",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/16-2-7",
+          "status": "complete"
+        },
+        {
+          "id": "16-3-1",
+          "title": "Proporción de víctimas de violencia en los últimos 12 meses que han notificado su victimización a las autoridades competentes u otros mecanismos de resolución de conflictos reconocidos oficialmente",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/16-3-1",
+          "status": "complete"
+        },
+        {
+          "id": "16-3-2",
+          "title": "Proporción de detenidos que no han sido condenados en el conjunto de la población reclusa total",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/16-3-2",
+          "status": "complete"
+        },
+        {
+          "id": "16-4-1",
+          "title": "Valor total de las corrientes financieras ilícitas entrantes y salientes (en dólares corrientes de los Estados Unidos)",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/16-4-1",
+          "status": "complete"
+        },
+        {
+          "id": "16-5-1",
+          "title": "Proporción de personas que han tenido al menos un contacto con un funcionario público y que han pagado un soborno a un funcionario público, o a las que un funcionario público les ha pedido un soborno, durante los últimos 12 meses",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/16-5-1",
+          "status": "complete"
+        },
+        {
+          "id": "16-5-2",
+          "title": "Proporción de negocios que han tenido al menos un contacto con un funcionario público y que han pagado un soborno a un funcionario público, o a los que un funcionario público les ha pedido un soborno, durante los últimos 12 meses",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/16-5-2",
+          "status": "complete"
+        },
+        {
+          "id": "16-5-3",
+          "title": "global_indicators.16-5-3-title",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/16-5-3",
+          "status": "complete"
+        },
+        {
+          "id": "16-6-1",
+          "title": "Gastos primarios del gobierno en proporción al presupuesto aprobado originalmente, desglosados por sector (o por códigos presupuestarios o elementos similares)",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/16-6-1",
+          "status": "complete"
+        },
+        {
+          "id": "16-7-1",
+          "title": "Proporciones de plazas en las instituciones nacionales y locales, entre ellas: a) las asambleas legislativas, b) la administración pública y c) el poder judicial, en comparación con la distribución nacional, desglosadas por sexo, edad, personas con discapacidad y grupos de población",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/16-7-1",
+          "status": "complete"
+        },
+        {
+          "id": "16-8-1",
+          "title": "Proporción de miembros y derechos de voto de los países en desarrollo en organizaciones internacionales",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/16-8-1",
+          "status": "complete"
+        },
+        {
+          "id": "16-8-2",
+          "title": "global_indicators.16-8-2-title",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/16-8-2",
+          "status": "complete"
+        },
+        {
+          "id": "16-8-3",
+          "title": "global_indicators.16-8-3-title",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/16-8-3",
+          "status": "complete"
+        },
+        {
+          "id": "16-8-4",
+          "title": "global_indicators.16-8-4-title",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/16-8-4",
+          "status": "complete"
+        },
+        {
+          "id": "16-8-5",
+          "title": "global_indicators.16-8-5-title",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/16-8-5",
+          "status": "complete"
+        },
+        {
+          "id": "16-9-1",
+          "title": "Proporción de niños menores de 5 años cuyo nacimiento se ha registrado ante una autoridad civil, desglosada por edad",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/16-9-1",
+          "status": "complete"
+        }]
+    }
+  },
+  {
+    "goal": {
+      "id": "17",
+      "title": "Fortalecer los medios de implementación y revitalizar la Alianza Mundial para el Desarrollo Sostenible",
+      "indicators": [
+        
+        {
+          "id": "17-1-1",
+          "title": "Total de ingresos del gobierno en proporción al PIB, desglosado por fuente",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/17-1-1",
+          "status": "complete"
+        },
+        {
+          "id": "17-1-2",
+          "title": "Proporción del presupuesto nacional financiado por impuestos internos",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/17-1-2",
+          "status": "complete"
+        },
+        {
+          "id": "17-2-1",
+          "title": "Asistencia oficial para el desarrollo neta, total y para los países menos adelantados en proporción al ingreso nacional bruto (INB) de los donantes del Comité de Asistencia para el Desarrollo de la Organización de Cooperación y Desarrollo Económicos (OCDE)",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/17-2-1",
+          "status": "complete"
+        },
+        {
+          "id": "17-3-1",
+          "title": "Inversión extranjera directa, asistencia oficial para el desarrollo y cooperación Sur-Sur como proporción del ingreso nacional bruto",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/17-3-1",
+          "status": "complete"
+        }]
+    }
+  },
+  {
+    "goal": {
       "id": "meta_1",
       "title": "global_goals.meta_1-title",
       "indicators": [
