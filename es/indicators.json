@@ -332,6 +332,54 @@
           "keywords": "",
           "href": "/site/es/4-4-4",
           "status": "complete"
+        },
+        {
+          "id": "4-5-1",
+          "title": "Índices de paridad (entre mujeres y hombres, zonas rurales y urbanas, quintiles de riqueza superior e inferior y grupos como los discapacitados, los pueblos indígenas y los afectados por los conflictos, a medida que se disponga de datos) para todos los indicadores educativos de esta lista que puedan desglosarse",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/4-5-1",
+          "status": "complete"
+        },
+        {
+          "id": "4-5-2",
+          "title": "global_indicators.4-5-2-title",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/4-5-2",
+          "status": "complete"
+        },
+        {
+          "id": "4-6-1",
+          "title": "Proporción de la población en un grupo de edad determinado que ha alcanzado al menos un nivel fijo de competencia funcional en a) alfabetización y b) nociones elementales de aritmética, desglosada por sexo",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/4-6-1",
+          "status": "complete"
+        },
+        {
+          "id": "4-7-1",
+          "title": "Grado en que i) la educación para la ciudadanía mundial y ii) la educación para el desarrollo sostenible se incorporan en a) las políticas nacionales de educación, b) los planes de estudio, c) la formación del profesorado y d) la evaluación de los estudiantes",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/4-7-1",
+          "status": "complete"
+        },
+        {
+          "id": "4-7-2",
+          "title": "global_indicators.4-7-2-title",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/4-7-2",
+          "status": "complete"
+        },
+        {
+          "id": "4-7-3",
+          "title": "global_indicators.4-7-3-title",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/4-7-3",
+          "status": "complete"
         }]
     }
   },
