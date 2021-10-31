@@ -265,6 +265,78 @@
   },
   {
     "goal": {
+      "id": "4",
+      "title": "Garantizar una educación inclusiva y equitativa de calidad y promover oportunidades de aprendizaje permanente para todos",
+      "indicators": [
+        
+        {
+          "id": "4-1-1",
+          "title": "Proporción de niños, niñas y adolescentes que, a) en los cursos segundo y tercero, b) al final de la enseñanza primaria y c) al final de la enseñanza secundaria inferior, han alcanzado al menos un nivel mínimo de competencia en i) lectura y ii) matemáticas, desglosada por sexo",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/4-1-1",
+          "status": "complete"
+        },
+        {
+          "id": "4-1-2",
+          "title": "Índice de finalización (enseñanza primaria, primer ciclo de enseñanza secundaria y segundo ciclo de enseñanza secundaria)",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/4-1-2",
+          "status": "complete"
+        },
+        {
+          "id": "4-2-1",
+          "title": "Proporción de niños de 24 a 59 meses cuyo desarrollo es adecuado en cuanto a la salud, el aprendizaje y el bienestar psicosocial, desglosada por sexo",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/4-2-1",
+          "status": "complete"
+        },
+        {
+          "id": "4-3-1",
+          "title": "Tasa de participación de los jóvenes y adultos en la enseñanza y formación académica y no académica en los últimos 12 meses, desglosada por sexo",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/4-3-1",
+          "status": "complete"
+        },
+        {
+          "id": "4-4-1",
+          "title": "Proporción de jóvenes y adultos con competencias en tecnología de la información y las comunicaciones (TIC), desglosada por tipo de competencia técnica",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/4-4-1",
+          "status": "complete"
+        },
+        {
+          "id": "4-4-2",
+          "title": "global_indicators.4-4-2-title",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/4-4-2",
+          "status": "complete"
+        },
+        {
+          "id": "4-4-3",
+          "title": "global_indicators.4-4-3-title",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/4-4-3",
+          "status": "complete"
+        },
+        {
+          "id": "4-4-4",
+          "title": "global_indicators.4-4-4-title",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/4-4-4",
+          "status": "complete"
+        }]
+    }
+  },
+  {
+    "goal": {
       "id": "meta_1",
       "title": "global_goals.meta_1-title",
       "indicators": [
