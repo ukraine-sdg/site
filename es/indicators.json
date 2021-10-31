@@ -150,6 +150,22 @@
       "indicators": [
         
         {
+          "id": "3-1-1",
+          "title": "Tasa de mortalidad materna",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/3-1-1",
+          "status": "notstarted"
+        },
+        {
+          "id": "3-2-1",
+          "title": "Tasa de mortalidad de niños menores de 5 años",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/3-2-1",
+          "status": "notstarted"
+        },
+        {
           "id": "3-3-1",
           "title": "Número de nuevas infecciones por el VIH por cada 1.000 habitantes no infectados, desglosado por sexo, edad y poblaciones clave",
           "description": "",
@@ -1051,6 +1067,14 @@
           "description": "",
           "keywords": "",
           "href": "/site/es/11-1-2",
+          "status": "complete"
+        },
+        {
+          "id": "11-2-1",
+          "title": "Proporción de la población que tiene fácil acceso al transporte público, desglosada por sexo, edad y personas con discapacidad",
+          "description": "",
+          "keywords": "",
+          "href": "/site/es/11-2-1",
           "status": "complete"
         },
         {
