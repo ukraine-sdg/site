@@ -1199,7 +1199,7 @@
         
         {
           "id": "13-1-1",
-          "title": "Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population",
+          "title": "Ratio of GHG emissions to 1990 level, %",
           "description": "",
           "keywords": "",
           "href": "/site/13-1-1",
@@ -1215,7 +1215,7 @@
         
         {
           "id": "14-1-1",
-          "title": "(a) Index of coastal eutrophication; and (b) plastic debris density",
+          "title": "Share of discharges of polluted wastewater in total discharges in the marine environment, %",
           "description": "",
           "keywords": "",
           "href": "/site/14-1-1",
@@ -1223,7 +1223,7 @@
         },
         {
           "id": "14-2-1",
-          "title": "Number of countries using ecosystem-based approaches to managing marine areas",
+          "title": "Area of territories and objects of the natural reserve fund of coastal regions, % of the territory of coastal areas",
           "description": "",
           "keywords": "",
           "href": "/site/14-2-1",
@@ -1231,7 +1231,7 @@
         },
         {
           "id": "14-2-2",
-          "title": "global_indicators.14-2-2-title",
+          "title": "Area of territories and objects of the natural reserve fund in the Black and Azov Seas, thousands of hectares",
           "description": "",
           "keywords": "",
           "href": "/site/14-2-2",
@@ -1239,7 +1239,7 @@
         },
         {
           "id": "14-3-1",
-          "title": "Average marine acidity (pH) measured at agreed suite of representative sampling stations",
+          "title": "Volumes of extraction of aquatic bioresources in the exclusive (maritime) economic zone of Ukraine, thousands of tonnes",
           "description": "",
           "keywords": "",
           "href": "/site/14-3-1",
@@ -1255,7 +1255,7 @@
         
         {
           "id": "15-1-1",
-          "title": "Forest area as a proportion of total land area",
+          "title": "Area of territories and objects of the natural reserve fund, thousands of hectares",
           "description": "",
           "keywords": "",
           "href": "/site/15-1-1",
@@ -1263,7 +1263,7 @@
         },
         {
           "id": "15-1-2",
-          "title": "Proportion of important sites for terrestrial and freshwater biodiversity that are covered by protected areas, by ecosystem type",
+          "title": "Share of area of territories and objects of the natural reserve fund in the total area of the country, %",
           "description": "",
           "keywords": "",
           "href": "/site/15-1-2",
@@ -1271,7 +1271,7 @@
         },
         {
           "id": "15-1-3",
-          "title": "global_indicators.15-1-3-title",
+          "title": "Share of the area of the national environmental network in the total area of the country, %",
           "description": "",
           "keywords": "",
           "href": "/site/15-1-3",
@@ -1279,7 +1279,7 @@
         },
         {
           "id": "15-2-1",
-          "title": "Progress towards sustainable forest management",
+          "title": "Forested territory of the country, %",
           "description": "",
           "keywords": "",
           "href": "/site/15-2-1",
@@ -1287,7 +1287,7 @@
         },
         {
           "id": "15-2-2",
-          "title": "global_indicators.15-2-2-title",
+          "title": "Wood stock in forests, millions of cubic metres",
           "description": "",
           "keywords": "",
           "href": "/site/15-2-2",
@@ -1295,7 +1295,7 @@
         },
         {
           "id": "15-3-1",
-          "title": "Proportion of land that is degraded over total land area",
+          "title": "Setting and implementation of a voluntary national objective to achieve a neutral level of land degradation in the activity area ‘Maintaining organic matter (humus) content in soils’ (organic carbon (humus) content in agricultural soils (%)) (data from international sources and organizations may be additionally used)",
           "description": "",
           "keywords": "",
           "href": "/site/15-3-1",
@@ -1303,7 +1303,7 @@
         },
         {
           "id": "15-3-2",
-          "title": "global_indicators.15-3-2-title",
+          "title": "Amount of arable land, thousands of hectares",
           "description": "",
           "keywords": "",
           "href": "/site/15-3-2",
@@ -1311,7 +1311,7 @@
         },
         {
           "id": "15-3-3",
-          "title": "global_indicators.15-3-3-title",
+          "title": "Share of arable land in total area of the country, %",
           "description": "",
           "keywords": "",
           "href": "/site/15-3-3",
@@ -1319,7 +1319,7 @@
         },
         {
           "id": "15-3-4",
-          "title": "global_indicators.15-3-4-title",
+          "title": "Area of land used for organic production, thousands of hectares",
           "description": "",
           "keywords": "",
           "href": "/site/15-3-4",
@@ -1327,7 +1327,7 @@
         },
         {
           "id": "15-3-5",
-          "title": "global_indicators.15-3-5-title",
+          "title": "Area of agricultural land of extensive use (hayfields, pastures), thousands of hectares",
           "description": "",
           "keywords": "",
           "href": "/site/15-3-5",
@@ -1335,7 +1335,7 @@
         },
         {
           "id": "15-3-6",
-          "title": "global_indicators.15-3-6-title",
+          "title": "Share of area of agricultural land of extensive use (hayfields, pastures) in total area of the country, %",
           "description": "",
           "keywords": "",
           "href": "/site/15-3-6",
@@ -1343,7 +1343,7 @@
         },
         {
           "id": "15-4-1",
-          "title": "Coverage by protected areas of important sites for mountain biodiversity",
+          "title": "Area of the nature reserve fund in mountainous regions, thousands of hectares",
           "description": "",
           "keywords": "",
           "href": "/site/15-4-1",
@@ -1351,7 +1351,7 @@
         },
         {
           "id": "15-4-2",
-          "title": "Mountain Green Cover Index",
+          "title": "Share of the area of the nature reserve fund in mountainous regions in the total area of the country, %",
           "description": "",
           "keywords": "",
           "href": "/site/15-4-2",
