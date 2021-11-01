@@ -1367,7 +1367,7 @@
         
         {
           "id": "16-1-1",
-          "title": "Number of victims of intentional homicide per 100,000 population, by sex and age",
+          "title": "Number of criminal offenses under Articles 115–118, 121 of the Criminal Code of Ukraine (evident intentional homicide, intentional grievous bodily harm) reported in the past 12 months per 100 000 persons",
           "description": "",
           "keywords": "",
           "href": "/site/16-1-1",
@@ -1375,7 +1375,7 @@
         },
         {
           "id": "16-1-2",
-          "title": "Conflict-related deaths per 100,000 population, by sex, age and cause",
+          "title": "Number of victims of crimes related to physical violence (intentional homicide (and relevant attempts), rape (and relevant attempts), grievous bodily harm), reported over the past 12 months, per 100 000 persons",
           "description": "",
           "keywords": "",
           "href": "/site/16-1-2",
@@ -1383,7 +1383,7 @@
         },
         {
           "id": "16-1-3",
-          "title": "Proportion of population subjected to (a) physical violence, (b) psychological violence and (c) sexual violence in the previous 12 months",
+          "title": "Number of victims of rape in the past 12 months, persons",
           "description": "",
           "keywords": "",
           "href": "/site/16-1-3",
