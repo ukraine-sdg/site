@@ -983,7 +983,7 @@
         
         {
           "id": "10-1-1",
-          "title": "Growth rates of household expenditure or income per capita among the bottom 40 per cent of the population and the total population",
+          "title": "Ratio of growth rate of the average per capita total income of the least well off 40% to the whole population, %",
           "description": "",
           "keywords": "",
           "href": "/site/10-1-1",
@@ -991,7 +991,7 @@
         },
         {
           "id": "10-1-2",
-          "title": "global_indicators.10-1-2-title",
+          "title": "Share of total income of the least well off 40% in the total income of population, %",
           "description": "",
           "keywords": "",
           "href": "/site/10-1-2",
@@ -999,7 +999,7 @@
         },
         {
           "id": "10-2-1",
-          "title": "Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",
+          "title": "Share of persons who reported that in the past 12 months they personally experienced gender-based discrimination in the total number of requests to expert councils on gender-based discrimination, %",
           "description": "",
           "keywords": "",
           "href": "/site/10-2-1",
@@ -1007,7 +1007,7 @@
         },
         {
           "id": "10-3-1",
-          "title": "Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months on the basis of a ground of discrimination prohibited under international human rights law",
+          "title": "Share of rural households who suffered from deprivation due to lack of access to ambulance services in the settlement, %",
           "description": "",
           "keywords": "",
           "href": "/site/10-3-1",
@@ -1015,7 +1015,7 @@
         },
         {
           "id": "10-3-2",
-          "title": "global_indicators.10-3-2-title",
+          "title": "Share of rural households who suffered from deprivation due to the lack of a medical facility near their home, %",
           "description": "",
           "keywords": "",
           "href": "/site/10-3-2",
@@ -1023,7 +1023,7 @@
         },
         {
           "id": "10-3-3",
-          "title": "global_indicators.10-3-3-title",
+          "title": "Share of rural households who suffered from deprivation due to the lack of regular daily transport to another settlement with developed infrastructure, %",
           "description": "",
           "keywords": "",
           "href": "/site/10-3-3",
@@ -1031,7 +1031,7 @@
         },
         {
           "id": "10-4-1",
-          "title": "Labour share of GDP",
+          "title": "Ratio of the average wage (income) of 10th and first decile groups of workers (decile coefficient), times",
           "description": "",
           "keywords": "",
           "href": "/site/10-4-1",
@@ -1039,7 +1039,7 @@
         },
         {
           "id": "10-5-1",
-          "title": "Financial Soundness Indicators",
+          "title": "Ratio of average pension to average wage in the economy (with 35 years of insurance experience), %",
           "description": "",
           "keywords": "",
           "href": "/site/10-5-1",
