@@ -7,7 +7,7 @@
         
         {
           "id": "1-1-1",
-          "title": "Share of the population whose average per capita equivalent total expenditure is lower than the actual (estimated) subsistence minimum, %",
+          "title": "Proportion of the population living below the international poverty line by sex, age, employment status and geographic location (urban/rural)",
           "description": "",
           "keywords": "",
           "href": "/site/1-1-1",
@@ -15,7 +15,7 @@
         },
         {
           "id": "1-1-2",
-          "title": "Share of individuals whose daily consumption is below USD 5.05 PPP, %",
+          "title": "global_indicators.1-1-2-title",
           "description": "",
           "keywords": "",
           "href": "/site/1-1-2",
@@ -23,7 +23,7 @@
         },
         {
           "id": "1-2-1",
-          "title": "Share of the poor population covered by state social support in the total number of poor people, %",
+          "title": "Proportion of population living below the national poverty line, by sex and age",
           "description": "",
           "keywords": "",
           "href": "/site/1-2-1",
@@ -31,7 +31,7 @@
         },
         {
           "id": "1-3-1",
-          "title": "Ratio of poverty levels of households with children and households without children, times",
+          "title": "Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable",
           "description": "",
           "keywords": "",
           "href": "/site/1-3-1",
@@ -39,7 +39,7 @@
         },
         {
           "id": "1-3-2",
-          "title": "Share of food expenditure in total household spending, %",
+          "title": "global_indicators.1-3-2-title",
           "description": "",
           "keywords": "",
           "href": "/site/1-3-2",
@@ -983,7 +983,7 @@
         
         {
           "id": "10-1-1",
-          "title": "Ratio of growth rate of the average per capita total income of the least well off 40% to the whole population, %",
+          "title": "Growth rates of household expenditure or income per capita among the bottom 40 per cent of the population and the total population",
           "description": "",
           "keywords": "",
           "href": "/site/10-1-1",
@@ -991,7 +991,7 @@
         },
         {
           "id": "10-1-2",
-          "title": "Share of total income of the least well off 40% in the total income of population, %",
+          "title": "global_indicators.10-1-2-title",
           "description": "",
           "keywords": "",
           "href": "/site/10-1-2",
@@ -999,7 +999,7 @@
         },
         {
           "id": "10-2-1",
-          "title": "Share of persons who reported that in the past 12 months they personally experienced gender-based discrimination in the total number of requests to expert councils on gender-based discrimination, %",
+          "title": "Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",
           "description": "",
           "keywords": "",
           "href": "/site/10-2-1",
@@ -1007,7 +1007,7 @@
         },
         {
           "id": "10-3-1",
-          "title": "Share of rural households who suffered from deprivation due to lack of access to ambulance services in the settlement, %",
+          "title": "Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months on the basis of a ground of discrimination prohibited under international human rights law",
           "description": "",
           "keywords": "",
           "href": "/site/10-3-1",
@@ -1015,7 +1015,7 @@
         },
         {
           "id": "10-3-2",
-          "title": "Share of rural households who suffered from deprivation due to the lack of a medical facility near their home, %",
+          "title": "global_indicators.10-3-2-title",
           "description": "",
           "keywords": "",
           "href": "/site/10-3-2",
@@ -1023,7 +1023,7 @@
         },
         {
           "id": "10-3-3",
-          "title": "Share of rural households who suffered from deprivation due to the lack of regular daily transport to another settlement with developed infrastructure, %",
+          "title": "global_indicators.10-3-3-title",
           "description": "",
           "keywords": "",
           "href": "/site/10-3-3",
@@ -1031,7 +1031,7 @@
         },
         {
           "id": "10-4-1",
-          "title": "Ratio of the average wage (income) of 10th and first decile groups of workers (decile coefficient), times",
+          "title": "Labour share of GDP",
           "description": "",
           "keywords": "",
           "href": "/site/10-4-1",
@@ -1039,7 +1039,7 @@
         },
         {
           "id": "10-5-1",
-          "title": "Ratio of average pension to average wage in the economy (with 35 years of insurance experience), %",
+          "title": "Financial Soundness Indicators",
           "description": "",
           "keywords": "",
           "href": "/site/10-5-1",
@@ -1055,7 +1055,7 @@
         
         {
           "id": "11-1-1",
-          "title": "Solvency ratio of the borrower (ratio of monthly payments of the borrower and his/her family on mortgage debt servicing to total monthly income)",
+          "title": "Proportion of urban population living in slums, informal settlements or inadequate housing",
           "description": "",
           "keywords": "",
           "href": "/site/11-1-1",
@@ -1063,7 +1063,7 @@
         },
         {
           "id": "11-1-2",
-          "title": "Coverage of territorial units of Ukraine (regions) with affordable housing programs for different categories of citizens, %",
+          "title": "global_indicators.11-1-2-title",
           "description": "",
           "keywords": "",
           "href": "/site/11-1-2",
@@ -1071,7 +1071,7 @@
         },
         {
           "id": "11-2-1",
-          "title": "Share of regions that have approved and implemented regional development strategies and action plans for their implementation developed with public participation, %",
+          "title": "Proportion of population that has convenient access to public transport, by sex, age and persons with disabilities",
           "description": "",
           "keywords": "",
           "href": "/site/11-2-1",
@@ -1079,7 +1079,7 @@
         },
         {
           "id": "11-3-1",
-          "title": "Number of cultural and natural heritage sites included in the UNESCO World Heritage List, units",
+          "title": "Ratio of land consumption rate to population growth rate",
           "description": "",
           "keywords": "",
           "href": "/site/11-3-1",
@@ -1087,7 +1087,7 @@
         },
         {
           "id": "11-3-2",
-          "title": "Number of monuments of national importance included in the State Monument List of Ukraine, units",
+          "title": "Proportion of cities with a direct participation structure of civil society in urban planning and management that operate regularly and democratically",
           "description": "",
           "keywords": "",
           "href": "/site/11-3-2",
@@ -1095,7 +1095,7 @@
         },
         {
           "id": "11-3-3",
-          "title": "Area of the nature reserve fund of national importance, % of the country area",
+          "title": "global_indicators.11-3-3-title",
           "description": "",
           "keywords": "",
           "href": "/site/11-3-3",
@@ -1103,7 +1103,7 @@
         },
         {
           "id": "11-4-1",
-          "title": "Status of implementation (development, modernization, improvement) of local automated centralized public alert systems, %",
+          "title": "Total per capita expenditure on the preservation, protection and conservation of all cultural and natural heritage, by source of funding (public, private), type of heritage (cultural, natural) and level of government (national, regional, and local/municipal)",
           "description": "",
           "keywords": "",
           "href": "/site/11-4-1",
@@ -1111,7 +1111,7 @@
         },
         {
           "id": "11-5-1",
-          "title": "Emissions of air pollutants from stationary sources,% to 2015 level",
+          "title": "Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population",
           "description": "",
           "keywords": "",
           "href": "/site/11-5-1",
@@ -1119,7 +1119,7 @@
         },
         {
           "id": "11-5-2",
-          "title": "Number of cities in which the average annual concentrations of major pollutants in the atmospheric air exceed the average daily maximum permissible concentrations, units",
+          "title": "Direct economic loss in relation to global GDP, damage to critical infrastructure and number of disruptions to basic services, attributed to disasters",
           "description": "",
           "keywords": "",
           "href": "/site/11-5-2",
@@ -1127,7 +1127,7 @@
         },
         {
           "id": "11-6-1",
-          "title": "Number of workers employed in tourism business entities (CEA code-2010 – 55.1, 55.2, 55.3, 79.11, 79.12), persons",
+          "title": "Proportion of municipal solid waste collected and managed in controlled facilities out of total municipal waste generated, by cities",
           "description": "",
           "keywords": "",
           "href": "/site/11-6-1",
@@ -1143,7 +1143,7 @@
         
         {
           "id": "12-1-1",
-          "title": "Resource intensity of GDP (ratio of consumed volumes of natural resources, waste generated and pollutant emissions to GDP), % to 2015 level",
+          "title": "Number of countries developing, adopting or implementing policy instruments aimed at supporting the shift to sustainable consumption and production",
           "description": "",
           "keywords": "",
           "href": "/site/12-1-1",
@@ -1151,7 +1151,7 @@
         },
         {
           "id": "12-2-1",
-          "title": "Share of post-harvest losses in the total production of cereals, %",
+          "title": "Material footprint, material footprint per capita, and material footprint per GDP",
           "description": "",
           "keywords": "",
           "href": "/site/12-2-1",
@@ -1159,7 +1159,7 @@
         },
         {
           "id": "12-2-2",
-          "title": "Share of post-harvest losses in overall production of vegetables and melons, %",
+          "title": "Domestic material consumption, domestic material consumption per capita, and domestic material consumption per GDP",
           "description": "",
           "keywords": "",
           "href": "/site/12-2-2",
@@ -1167,7 +1167,7 @@
         },
         {
           "id": "12-3-1",
-          "title": "Share of enterprises that implemented chemical management systems in accordance with international standards in the total number of enterprises using hazardous chemicals, %",
+          "title": "(a) Food loss index and (b) food waste index",
           "description": "",
           "keywords": "",
           "href": "/site/12-3-1",
@@ -1175,7 +1175,7 @@
         },
         {
           "id": "12-4-1",
-          "title": "Volume of waste generated by all economic activities per unit of GDP, kg per USD 1,000 PPP in 2011",
+          "title": "Number of parties to international multilateral environmental agreements on hazardous waste, and other chemicals that meet their commitments and obligations in transmitting information as required by each relevant agreement",
           "description": "",
           "keywords": "",
           "href": "/site/12-4-1",
@@ -1183,7 +1183,7 @@
         },
         {
           "id": "12-4-2",
-          "title": "Share of burned and recycled waste in the total waste generated, %",
+          "title": "(a) Hazardous waste generated per capita; and (b) proportion of hazardous waste treated, by type of treatment",
           "description": "",
           "keywords": "",
           "href": "/site/12-4-2",
@@ -1199,7 +1199,7 @@
         
         {
           "id": "13-1-1",
-          "title": "Ratio of GHG emissions to 1990 level, %",
+          "title": "Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population",
           "description": "",
           "keywords": "",
           "href": "/site/13-1-1",
@@ -1215,7 +1215,7 @@
         
         {
           "id": "14-1-1",
-          "title": "Share of discharges of polluted wastewater in total discharges in the marine environment, %",
+          "title": "(a) Index of coastal eutrophication; and (b) plastic debris density",
           "description": "",
           "keywords": "",
           "href": "/site/14-1-1",
@@ -1223,7 +1223,7 @@
         },
         {
           "id": "14-2-1",
-          "title": "Area of territories and objects of the natural reserve fund of coastal regions, % of the territory of coastal areas",
+          "title": "Number of countries using ecosystem-based approaches to managing marine areas",
           "description": "",
           "keywords": "",
           "href": "/site/14-2-1",
@@ -1231,7 +1231,7 @@
         },
         {
           "id": "14-2-2",
-          "title": "Area of territories and objects of the natural reserve fund in the Black and Azov Seas, thousands of hectares",
+          "title": "global_indicators.14-2-2-title",
           "description": "",
           "keywords": "",
           "href": "/site/14-2-2",
@@ -1239,7 +1239,7 @@
         },
         {
           "id": "14-3-1",
-          "title": "Volumes of extraction of aquatic bioresources in the exclusive (maritime) economic zone of Ukraine, thousands of tonnes",
+          "title": "Average marine acidity (pH) measured at agreed suite of representative sampling stations",
           "description": "",
           "keywords": "",
           "href": "/site/14-3-1",
@@ -1255,7 +1255,7 @@
         
         {
           "id": "15-1-1",
-          "title": "Area of territories and objects of the natural reserve fund, thousands of hectares",
+          "title": "Forest area as a proportion of total land area",
           "description": "",
           "keywords": "",
           "href": "/site/15-1-1",
@@ -1263,7 +1263,7 @@
         },
         {
           "id": "15-1-2",
-          "title": "Share of area of territories and objects of the natural reserve fund in the total area of the country, %",
+          "title": "Proportion of important sites for terrestrial and freshwater biodiversity that are covered by protected areas, by ecosystem type",
           "description": "",
           "keywords": "",
           "href": "/site/15-1-2",
@@ -1271,7 +1271,7 @@
         },
         {
           "id": "15-1-3",
-          "title": "Share of the area of the national environmental network in the total area of the country, %",
+          "title": "global_indicators.15-1-3-title",
           "description": "",
           "keywords": "",
           "href": "/site/15-1-3",
@@ -1279,7 +1279,7 @@
         },
         {
           "id": "15-2-1",
-          "title": "Forested territory of the country, %",
+          "title": "Progress towards sustainable forest management",
           "description": "",
           "keywords": "",
           "href": "/site/15-2-1",
@@ -1287,7 +1287,7 @@
         },
         {
           "id": "15-2-2",
-          "title": "Wood stock in forests, millions of cubic metres",
+          "title": "global_indicators.15-2-2-title",
           "description": "",
           "keywords": "",
           "href": "/site/15-2-2",
@@ -1295,7 +1295,7 @@
         },
         {
           "id": "15-3-1",
-          "title": "Setting and implementation of a voluntary national objective to achieve a neutral level of land degradation in the activity area ‘Maintaining organic matter (humus) content in soils’ (organic carbon (humus) content in agricultural soils (%)) (data from international sources and organizations may be additionally used)",
+          "title": "Proportion of land that is degraded over total land area",
           "description": "",
           "keywords": "",
           "href": "/site/15-3-1",
@@ -1303,7 +1303,7 @@
         },
         {
           "id": "15-3-2",
-          "title": "Amount of arable land, thousands of hectares",
+          "title": "global_indicators.15-3-2-title",
           "description": "",
           "keywords": "",
           "href": "/site/15-3-2",
@@ -1311,7 +1311,7 @@
         },
         {
           "id": "15-3-3",
-          "title": "Share of arable land in total area of the country, %",
+          "title": "global_indicators.15-3-3-title",
           "description": "",
           "keywords": "",
           "href": "/site/15-3-3",
@@ -1319,7 +1319,7 @@
         },
         {
           "id": "15-3-4",
-          "title": "Area of land used for organic production, thousands of hectares",
+          "title": "global_indicators.15-3-4-title",
           "description": "",
           "keywords": "",
           "href": "/site/15-3-4",
@@ -1327,7 +1327,7 @@
         },
         {
           "id": "15-3-5",
-          "title": "Area of agricultural land of extensive use (hayfields, pastures), thousands of hectares",
+          "title": "global_indicators.15-3-5-title",
           "description": "",
           "keywords": "",
           "href": "/site/15-3-5",
@@ -1335,7 +1335,7 @@
         },
         {
           "id": "15-3-6",
-          "title": "Share of area of agricultural land of extensive use (hayfields, pastures) in total area of the country, %",
+          "title": "global_indicators.15-3-6-title",
           "description": "",
           "keywords": "",
           "href": "/site/15-3-6",
@@ -1343,7 +1343,7 @@
         },
         {
           "id": "15-4-1",
-          "title": "Area of the nature reserve fund in mountainous regions, thousands of hectares",
+          "title": "Coverage by protected areas of important sites for mountain biodiversity",
           "description": "",
           "keywords": "",
           "href": "/site/15-4-1",
@@ -1351,7 +1351,7 @@
         },
         {
           "id": "15-4-2",
-          "title": "Share of the area of the nature reserve fund in mountainous regions in the total area of the country, %",
+          "title": "Mountain Green Cover Index",
           "description": "",
           "keywords": "",
           "href": "/site/15-4-2",
