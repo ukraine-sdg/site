@@ -55,7 +55,7 @@
         
         {
           "id": "2-1-1",
-          "title": "Consumption of meat per capita, kg/year",
+          "title": "Prevalence of undernourishment",
           "description": "",
           "keywords": "",
           "href": "/site/2-1-1",
@@ -63,7 +63,7 @@
         },
         {
           "id": "2-1-2",
-          "title": "Consumption of milk and dairy products per capita, kg/year",
+          "title": "Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",
           "description": "",
           "keywords": "",
           "href": "/site/2-1-2",
@@ -71,7 +71,7 @@
         },
         {
           "id": "2-1-3",
-          "title": "Consumption of fish per capita, kg/year",
+          "title": "global_indicators.2-1-3-title",
           "description": "",
           "keywords": "",
           "href": "/site/2-1-3",
@@ -79,7 +79,7 @@
         },
         {
           "id": "2-1-4",
-          "title": "Consumption of vegetables per capita, kg/year",
+          "title": "global_indicators.2-1-4-title",
           "description": "",
           "keywords": "",
           "href": "/site/2-1-4",
@@ -87,7 +87,7 @@
         },
         {
           "id": "2-1-5",
-          "title": "Consumption of fruit per capita, kg/year",
+          "title": "global_indicators.2-1-5-title",
           "description": "",
           "keywords": "",
           "href": "/site/2-1-5",
@@ -95,7 +95,7 @@
         },
         {
           "id": "2-2-1",
-          "title": "Labour productivity in agriculture, USD 1,000s per employee",
+          "title": "Prevalence of stunting (height for age <-2 standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age",
           "description": "",
           "keywords": "",
           "href": "/site/2-2-1",
@@ -103,7 +103,7 @@
         },
         {
           "id": "2-2-2",
-          "title": "The index of agricultural production, %",
+          "title": "Prevalence of malnutrition (weight for height >+2 or <-2 standard deviation from the median of the WHO Child Growth Standards) among children under 5 years of age, by type (wasting and overweight)",
           "description": "",
           "keywords": "",
           "href": "/site/2-2-2",
@@ -111,7 +111,7 @@
         },
         {
           "id": "2-3-1",
-          "title": "The index of food production, %",
+          "title": "Volume of production per labour unit by classes of farming/pastoral/forestry enterprise size",
           "description": "",
           "keywords": "",
           "href": "/site/2-3-1",
@@ -119,7 +119,7 @@
         },
         {
           "id": "2-3-2",
-          "title": "Share of food industry and agricultural raw materials processing production in exports of Ukrainian Classifier of Goods for Foreign Economic Activity groups 1–24, %",
+          "title": "Average income of small-scale food producers, by sex and indigenous status",
           "description": "",
           "keywords": "",
           "href": "/site/2-3-2",
@@ -127,7 +127,7 @@
         },
         {
           "id": "2-3-3",
-          "title": "Share of agricultural land under organic production in the total area of agricultural land, %",
+          "title": "global_indicators.2-3-3-title",
           "description": "",
           "keywords": "",
           "href": "/site/2-3-3",
@@ -135,7 +135,7 @@
         },
         {
           "id": "2-4-1",
-          "title": "The consumer price index for food, %",
+          "title": "Proportion of agricultural area under productive and sustainable agriculture",
           "description": "",
           "keywords": "",
           "href": "/site/2-4-1",
