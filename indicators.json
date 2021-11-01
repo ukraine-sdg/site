@@ -55,7 +55,7 @@
         
         {
           "id": "2-1-1",
-          "title": "Consumption of meat per capita, kg/year",
+          "title": "Prevalence of undernourishment",
           "description": "",
           "keywords": "",
           "href": "/site/2-1-1",
@@ -63,7 +63,7 @@
         },
         {
           "id": "2-1-2",
-          "title": "Consumption of milk and dairy products per capita, kg/year",
+          "title": "Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",
           "description": "",
           "keywords": "",
           "href": "/site/2-1-2",
@@ -71,7 +71,7 @@
         },
         {
           "id": "2-1-3",
-          "title": "Consumption of fish per capita, kg/year",
+          "title": "global_indicators.2-1-3-title",
           "description": "",
           "keywords": "",
           "href": "/site/2-1-3",
@@ -79,7 +79,7 @@
         },
         {
           "id": "2-1-4",
-          "title": "Consumption of vegetables per capita, kg/year",
+          "title": "global_indicators.2-1-4-title",
           "description": "",
           "keywords": "",
           "href": "/site/2-1-4",
@@ -87,7 +87,7 @@
         },
         {
           "id": "2-1-5",
-          "title": "Consumption of fruit per capita, kg/year",
+          "title": "global_indicators.2-1-5-title",
           "description": "",
           "keywords": "",
           "href": "/site/2-1-5",
