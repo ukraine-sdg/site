@@ -1055,7 +1055,7 @@
         
         {
           "id": "11-1-1",
-          "title": "Proportion of urban population living in slums, informal settlements or inadequate housing",
+          "title": "Solvency ratio of the borrower (ratio of monthly payments of the borrower and his/her family on mortgage debt servicing to total monthly income)",
           "description": "",
           "keywords": "",
           "href": "/site/11-1-1",
@@ -1063,7 +1063,7 @@
         },
         {
           "id": "11-1-2",
-          "title": "global_indicators.11-1-2-title",
+          "title": "Coverage of territorial units of Ukraine (regions) with affordable housing programs for different categories of citizens, %",
           "description": "",
           "keywords": "",
           "href": "/site/11-1-2",
@@ -1071,7 +1071,7 @@
         },
         {
           "id": "11-2-1",
-          "title": "Proportion of population that has convenient access to public transport, by sex, age and persons with disabilities",
+          "title": "Share of regions that have approved and implemented regional development strategies and action plans for their implementation developed with public participation, %",
           "description": "",
           "keywords": "",
           "href": "/site/11-2-1",
@@ -1079,7 +1079,7 @@
         },
         {
           "id": "11-3-1",
-          "title": "Ratio of land consumption rate to population growth rate",
+          "title": "Number of cultural and natural heritage sites included in the UNESCO World Heritage List, units",
           "description": "",
           "keywords": "",
           "href": "/site/11-3-1",
@@ -1087,7 +1087,7 @@
         },
         {
           "id": "11-3-2",
-          "title": "Proportion of cities with a direct participation structure of civil society in urban planning and management that operate regularly and democratically",
+          "title": "Number of monuments of national importance included in the State Monument List of Ukraine, units",
           "description": "",
           "keywords": "",
           "href": "/site/11-3-2",
@@ -1095,7 +1095,7 @@
         },
         {
           "id": "11-3-3",
-          "title": "global_indicators.11-3-3-title",
+          "title": "Area of the nature reserve fund of national importance, % of the country area",
           "description": "",
           "keywords": "",
           "href": "/site/11-3-3",
@@ -1103,7 +1103,7 @@
         },
         {
           "id": "11-4-1",
-          "title": "Total per capita expenditure on the preservation, protection and conservation of all cultural and natural heritage, by source of funding (public, private), type of heritage (cultural, natural) and level of government (national, regional, and local/municipal)",
+          "title": "Status of implementation (development, modernization, improvement) of local automated centralized public alert systems, %",
           "description": "",
           "keywords": "",
           "href": "/site/11-4-1",
@@ -1111,7 +1111,7 @@
         },
         {
           "id": "11-5-1",
-          "title": "Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population",
+          "title": "Emissions of air pollutants from stationary sources,% to 2015 level",
           "description": "",
           "keywords": "",
           "href": "/site/11-5-1",
@@ -1119,7 +1119,7 @@
         },
         {
           "id": "11-5-2",
-          "title": "Direct economic loss in relation to global GDP, damage to critical infrastructure and number of disruptions to basic services, attributed to disasters",
+          "title": "Number of cities in which the average annual concentrations of major pollutants in the atmospheric air exceed the average daily maximum permissible concentrations, units",
           "description": "",
           "keywords": "",
           "href": "/site/11-5-2",
@@ -1127,7 +1127,7 @@
         },
         {
           "id": "11-6-1",
-          "title": "Proportion of municipal solid waste collected and managed in controlled facilities out of total municipal waste generated, by cities",
+          "title": "Number of workers employed in tourism business entities (CEA code-2010 – 55.1, 55.2, 55.3, 79.11, 79.12), persons",
           "description": "",
           "keywords": "",
           "href": "/site/11-6-1",
@@ -1143,7 +1143,7 @@
         
         {
           "id": "12-1-1",
-          "title": "Number of countries developing, adopting or implementing policy instruments aimed at supporting the shift to sustainable consumption and production",
+          "title": "Resource intensity of GDP (ratio of consumed volumes of natural resources, waste generated and pollutant emissions to GDP), % to 2015 level",
           "description": "",
           "keywords": "",
           "href": "/site/12-1-1",
@@ -1151,7 +1151,7 @@
         },
         {
           "id": "12-2-1",
-          "title": "Material footprint, material footprint per capita, and material footprint per GDP",
+          "title": "Share of post-harvest losses in the total production of cereals, %",
           "description": "",
           "keywords": "",
           "href": "/site/12-2-1",
@@ -1159,7 +1159,7 @@
         },
         {
           "id": "12-2-2",
-          "title": "Domestic material consumption, domestic material consumption per capita, and domestic material consumption per GDP",
+          "title": "Share of post-harvest losses in overall production of vegetables and melons, %",
           "description": "",
           "keywords": "",
           "href": "/site/12-2-2",
@@ -1167,7 +1167,7 @@
         },
         {
           "id": "12-3-1",
-          "title": "(a) Food loss index and (b) food waste index",
+          "title": "Share of enterprises that implemented chemical management systems in accordance with international standards in the total number of enterprises using hazardous chemicals, %",
           "description": "",
           "keywords": "",
           "href": "/site/12-3-1",
@@ -1175,7 +1175,7 @@
         },
         {
           "id": "12-4-1",
-          "title": "Number of parties to international multilateral environmental agreements on hazardous waste, and other chemicals that meet their commitments and obligations in transmitting information as required by each relevant agreement",
+          "title": "Volume of waste generated by all economic activities per unit of GDP, kg per USD 1,000 PPP in 2011",
           "description": "",
           "keywords": "",
           "href": "/site/12-4-1",
@@ -1183,7 +1183,7 @@
         },
         {
           "id": "12-4-2",
-          "title": "(a) Hazardous waste generated per capita; and (b) proportion of hazardous waste treated, by type of treatment",
+          "title": "Share of burned and recycled waste in the total waste generated, %",
           "description": "",
           "keywords": "",
           "href": "/site/12-4-2",
