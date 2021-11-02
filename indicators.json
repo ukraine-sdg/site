@@ -151,7 +151,7 @@
         
         {
           "id": "3-1-1",
-          "title": "Test1",
+          "title": "Number of cases of maternal mortality, per 100000 live births",
           "description": "",
           "keywords": "",
           "href": "/site/3-1-1",
@@ -159,7 +159,7 @@
         },
         {
           "id": "3-2-1",
-          "title": "Test 2",
+          "title": "Mortality of children under 5, cases per 1000 live births",
           "description": "",
           "keywords": "",
           "href": "/site/3-2-1",
@@ -167,7 +167,7 @@
         },
         {
           "id": "3-3-1",
-          "title": "Test3",
+          "title": "Number of patients diagnosted with HIV for the first time, per 100000 persons",
           "description": "",
           "keywords": "",
           "href": "/site/3-3-1",
@@ -175,7 +175,7 @@
         },
         {
           "id": "3-3-2",
-          "title": "Test4",
+          "title": "Number of patients diagnosted with active tuberculosis for the first time, per 100000 persons",
           "description": "",
           "keywords": "",
           "href": "/site/3-3-2",
