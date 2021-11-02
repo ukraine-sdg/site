@@ -183,7 +183,7 @@
         },
         {
           "id": "3-4-1",
-          "title": "Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",
+          "title": "Number of deaths from cerebrovascular disease at the age of 30–59, per 100000 men of corresponding age",
           "description": "",
           "keywords": "",
           "href": "/site/3-4-1",
@@ -191,7 +191,7 @@
         },
         {
           "id": "3-4-2",
-          "title": "Suicide mortality rate",
+          "title": "Number of deaths from cerebrovascular disease at the age of 30–59, per 100000 women of corresponding age",
           "description": "",
           "keywords": "",
           "href": "/site/3-4-2",
@@ -199,7 +199,7 @@
         },
         {
           "id": "3-4-3",
-          "title": "global_indicators.3-4-3-title",
+          "title": "Number of deaths from malignant breast tumours at the age of 30–59, per 100000 women of appropriate age",
           "description": "",
           "keywords": "",
           "href": "/site/3-4-3",
@@ -207,7 +207,7 @@
         },
         {
           "id": "3-4-4",
-          "title": "global_indicators.3-4-4-title",
+          "title": "Number of deaths from malignant cervical tumours at the age of 30–59, per 100000 women of appropriate age",
           "description": "",
           "keywords": "",
           "href": "/site/3-4-4",
