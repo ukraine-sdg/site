@@ -1,8 +1,8 @@
 ---
 title: About
-permalink: /es/about/
+permalink: /uk/about/
 layout: page
-language: es
+language: uk
 ---
 
 Translation needed.
