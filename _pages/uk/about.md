@@ -1,6 +1,6 @@
 ---
 title: About
-permalink: /es/about/
+permalink: /uk/about/
 layout: page
 language: uk
 ---
