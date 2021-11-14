@@ -7,7 +7,7 @@
         
         {
           "id": "1-1-1",
-          "title": "Share of the population whose average per capita equivalent total expenditure is lower than the actual (estimated) subsistence minimum, %",
+          "title": "Частка населення, чиї середньодушові еквівалентні сукупні витрати є нижчими за фактичний (розрахунковий) прожитковий мінімум, %",
           "description": "",
           "keywords": "",
           "href": "/site/uk/1-1-1",
@@ -15,7 +15,7 @@
         },
         {
           "id": "1-1-2",
-          "title": "Share of individuals whose daily consumption is below USD 5.05 PPP, %",
+          "title": "Частка осіб, добове споживання яких є нижчим за 5,05 долара США за ПКС, %",
           "description": "",
           "keywords": "",
           "href": "/site/uk/1-1-2",
@@ -23,7 +23,7 @@
         },
         {
           "id": "1-2-1",
-          "title": "Share of the poor population covered by state social support in the total number of poor people, %",
+          "title": "Частка бідних, які охоплені державною соціальною підтримкою, в загальній чисельності бідного населення, %",
           "description": "",
           "keywords": "",
           "href": "/site/uk/1-2-1",
@@ -31,7 +31,7 @@
         },
         {
           "id": "1-3-1",
-          "title": "Ratio of poverty levels of households with children and households without children, times",
+          "title": "Співвідношення рівнів бідності домогосподарств із дітьми та домогосподарств без дітей, рази",
           "description": "",
           "keywords": "",
           "href": "/site/uk/1-3-1",
@@ -39,7 +39,7 @@
         },
         {
           "id": "1-3-2",
-          "title": "Share of food expenditure in total household spending, %",
+          "title": "Частка витрат на харчування в сукупних витратах домогосподарств, %",
           "description": "",
           "keywords": "",
           "href": "/site/uk/1-3-2",
@@ -983,7 +983,7 @@
         
         {
           "id": "10-1-1",
-          "title": "Ratio of growth rate of the average per capita total income of the least well off 40% to the whole population, %",
+          "title": "Співвідношення темпів зростання середньодушових загальних доходів 40% найменш забезпечених та всього населення, %",
           "description": "",
           "keywords": "",
           "href": "/site/uk/10-1-1",
@@ -991,7 +991,7 @@
         },
         {
           "id": "10-1-2",
-          "title": "Share of total income of the least well off 40% in the total income of population, %",
+          "title": "Частка загальних доходів 40% найменш забезпечених у всіх загальних доходах населення, %",
           "description": "",
           "keywords": "",
           "href": "/site/uk/10-1-2",
@@ -999,7 +999,7 @@
         },
         {
           "id": "10-2-1",
-          "title": "Share of persons who reported that in the past 12 months they personally experienced gender-based discrimination in the total number of requests to expert councils on gender-based discrimination, %",
+          "title": "Частка осіб, які повідомили про те, що в останні 12 місяців особисто стикнулися з дискримінацією за ознакою статі серед загальної кількості звернень до експертних рад з питань дискримінації за ознакою статі, %",
           "description": "",
           "keywords": "",
           "href": "/site/uk/10-2-1",
@@ -1007,7 +1007,7 @@
         },
         {
           "id": "10-3-1",
-          "title": "Share of rural households who suffered from deprivation due to lack of access to ambulance services in the settlement, %",
+          "title": "Частка сільських домогосподарств, які потерпали від позбавлення через незабезпеченість населеного пункту своєчасними послугами швидкої медичної допомоги, %",
           "description": "",
           "keywords": "",
           "href": "/site/uk/10-3-1",
@@ -1015,7 +1015,7 @@
         },
         {
           "id": "10-3-2",
-          "title": "Share of rural households who suffered from deprivation due to the lack of a medical facility near their home, %",
+          "title": "Частка сільських домогосподарств, які потерпали від позбавлення через відсутність поблизу житла медичної установи, %",
           "description": "",
           "keywords": "",
           "href": "/site/uk/10-3-2",
@@ -1023,7 +1023,7 @@
         },
         {
           "id": "10-3-3",
-          "title": "Share of rural households who suffered from deprivation due to the lack of regular daily transport to another settlement with developed infrastructure, %",
+          "title": "Частка сільських домогосподарств, які потерпали від позбавлення через відсутність регулярного щоденного транспортного сполучення з іншим населеним пунктом з розвиненою інфраструктурою, %",
           "description": "",
           "keywords": "",
           "href": "/site/uk/10-3-3",
@@ -1031,7 +1031,7 @@
         },
         {
           "id": "10-4-1",
-          "title": "Ratio of the average wage (income) of 10th and first decile groups of workers (decile coefficient), times",
+          "title": "Співвідношення середньомісячної заробітної плати (доходів) десятої та першої децильних груп працівників (децильний коефіцієнт), рази",
           "description": "",
           "keywords": "",
           "href": "/site/uk/10-4-1",
@@ -1039,7 +1039,7 @@
         },
         {
           "id": "10-5-1",
-          "title": "Ratio of average pension to average wage in the economy (with 35 years of insurance experience), %",
+          "title": "Співвідношення середнього розміру пенсії та середньої заробітної плати в економіці (за наявності 35 років страхового стажу), %",
           "description": "",
           "keywords": "",
           "href": "/site/uk/10-5-1",
@@ -1055,7 +1055,7 @@
         
         {
           "id": "11-1-1",
-          "title": "Solvency ratio of the borrower (ratio of monthly payments of the borrower and his/her family on mortgage debt servicing to total monthly income)",
+          "title": "Коефіцієнт платоспроможності позичальника, РТІ (співвідношення щомісячних витрат позичальника та членів його родини на обслуговування боргу за пільговим іпотечним кредитом, отриманим за рахунок коштів державного або місцевого бюджету та сукупного обсягу щомісячних доходів)",
           "description": "",
           "keywords": "",
           "href": "/site/uk/11-1-1",
@@ -1063,7 +1063,7 @@
         },
         {
           "id": "11-1-2",
-          "title": "Coverage of territorial units of Ukraine (regions) with affordable housing programs for different categories of citizens, %",
+          "title": "Охоплення територіальних одиниць України (регіонів), програмами з забезпечення доступним житлом різних категорій громадян, %",
           "description": "",
           "keywords": "",
           "href": "/site/uk/11-1-2",
@@ -1071,7 +1071,7 @@
         },
         {
           "id": "11-2-1",
-          "title": "Share of regions that have approved and implemented regional development strategies and action plans for their implementation developed with public participation, %",
+          "title": "Частка регіонів, що затвердили і впроваджують регіональні стратегії розвитку та плани заходів з їх реалізації, розроблені за участю громадськості, %",
           "description": "",
           "keywords": "",
           "href": "/site/uk/11-2-1",
@@ -1079,7 +1079,7 @@
         },
         {
           "id": "11-3-1",
-          "title": "Number of cultural and natural heritage sites included in the UNESCO World Heritage List, units",
+          "title": "Кількість об’єктів культурної та природної спадщини, які включені до Списку всесвітньої спадщини ЮНЕСКО, одиниць",
           "description": "",
           "keywords": "",
           "href": "/site/uk/11-3-1",
@@ -1087,7 +1087,7 @@
         },
         {
           "id": "11-3-2",
-          "title": "Number of monuments of national importance included in the State Monument List of Ukraine, units",
+          "title": "Кількість пам’яток національного значення, включених до Державного реєстру нерухомих пам’яток України, одиниць",
           "description": "",
           "keywords": "",
           "href": "/site/uk/11-3-2",
@@ -1095,7 +1095,7 @@
         },
         {
           "id": "11-3-3",
-          "title": "Area of the nature reserve fund of national importance, % of the country area",
+          "title": "Площа природно-заповідного фонду загальнодержавного значення, % території країни",
           "description": "",
           "keywords": "",
           "href": "/site/uk/11-3-3",
@@ -1103,7 +1103,7 @@
         },
         {
           "id": "11-4-1",
-          "title": "Status of implementation (development, modernization, improvement) of local automated centralized public alert systems, %",
+          "title": "Рівень впровадження (створення, модернізації, вдосконалення) місцевих автоматизованих систем централізованого оповіщення населення, %",
           "description": "",
           "keywords": "",
           "href": "/site/uk/11-4-1",
@@ -1111,7 +1111,7 @@
         },
         {
           "id": "11-5-1",
-          "title": "Emissions of air pollutants from stationary sources,% to 2015 level",
+          "title": "Обсяг викидів у атмосферне повітря забруднюючих речовин стаціонарними джерелами викидів, % до рівня 2015 року",
           "description": "",
           "keywords": "",
           "href": "/site/uk/11-5-1",
@@ -1119,7 +1119,7 @@
         },
         {
           "id": "11-5-2",
-          "title": "Number of cities in which the average annual concentrations of major pollutants in the atmospheric air exceed the average daily maximum permissible concentrations, units",
+          "title": "Кількість міст, у яких середньорічні концентрації основних забруднюючих речовин в атмосферному повітрі перевищують середньодобові гранично допустимі концентрації, одиниць",
           "description": "",
           "keywords": "",
           "href": "/site/uk/11-5-2",
@@ -1127,7 +1127,7 @@
         },
         {
           "id": "11-6-1",
-          "title": "Number of workers employed in tourism business entities (CEA code-2010 – 55.1, 55.2, 55.3, 79.11, 79.12), persons",
+          "title": "Кількість зайнятих працівників у суб'єктів господарювання туристичної діяльності (код за КВЕД-2010 – 55.1, 55.2, 55.3, 79.11, 79.12), осіб",
           "description": "",
           "keywords": "",
           "href": "/site/uk/11-6-1",
