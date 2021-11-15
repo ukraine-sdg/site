@@ -138,7 +138,7 @@ var translations = {
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" crossorigin="">
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" crossorigin="">
         <link rel="stylesheet" href="https://cdn.datatables.net/fixedcolumns/3.2.3/css/fixedColumns.dataTables.min.css" crossorigin="">
-        <link rel="stylesheet" href="/site/assets/css/style.css?v=20211115165233">
+        <link rel="stylesheet" href="/site/assets/css/style.css?v=20211115170800">
         <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.4/dist/leaflet.css"
           integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
           crossorigin=""/>
@@ -487,7 +487,7 @@ data-event-label="high"
 
 <script>translations['indicator'] = {"annotation_2030_target":"Мета 2030 року","annotation_series_break":"Перерва серії","announce_data_added":"Діаграма та таблиця оновлено, щоб включити дані.","announce_data_not_available":"Діаграма та таблиця не відображають даних.","announce_data_removed":"Діаграма та таблиця оновлено, щоб виключити дані.","chart":"Діаграма","chart_annotation":"Анотація діаграми","clear_all":"Очистити все","clear_selections":"Спорожнити позначене","data_keyboard_navigation":"Натисніть клавішу Enter, щоб переглянути точки даних за допомогою клавіш зі стрілками вліво та вправо.","data_not_available":"Ці дані недоступні. Виберіть альтернативні дані для відображення.","data_tabular_alternative":"Альтернатива табличної даних див.","dataset_size_warning":"На діаграмі занадто багато наборів даних. Не всі з них відображатимуться, доки не буде видалено деякі виділення.","download_chart":"Завантажити CSV-діаграму","download_chart_image":"Завантажити зображення діаграми","download_chart_image_title":"Завантажити діаграму як зображення","download_csv":"Завантажити CSV","download_csv_title":"Завантажити як CSV","download_geojson":"Завантажити GeoJSON","download_geojson_title":"Завантажити як GeoJSON","download_headline":"Завантажити CSV заголовка","download_headline_title":"Завантаження даних заголовка як CSV","download_source":"Завантажити вихідний CSV","download_source_sdmx":"Завантажити джерело SDMX","download_source_sdmx_title":"Завантаження вихідних даних як SDMX","download_source_title":"Завантаження вихідних даних у форматі CSV","download_table":"Завантажити таблицю CSV","edit":"Редагувати","edit_configuration":"Змінити конфігурацію","edit_data":"Змінити дані","edit_metadata":"Редагування метаданих","footnote":"Виноска","geographical_area":"Географічний район","global_metadata":"Глобальні метадані","global_metadata_blurb":"Ця таблиця містить інформацію про метадані для показників ЦСР, визначених Статистичною комісією ООН. <a href=\"https://unstats.un.org/sdgs/metadata/\"> Повні глобальні метадані </a> надаються Відділом статистики ООН.","legend_help":"Натисніть на легенду, щоб видалити окремі рядки з діаграми.","loading":"Завантаження","loading_map":"Завантаження карти","map":"Мапа","map_search":"Пошук","map_search_hide":"Приховати пошук","map_search_show":"Показати пошук","map_year_slider":"Повзунок року","national_metadata":"Національні метадані","national_metadata_blurb":"У цій таблиці наведено метадані для фактичного індикатора, доступного зі статистики %country_name, найближчої до відповідного глобального індикатора ЦСР. Зверніть увагу, що навіть якщо глобальний індикатор ЦСР повністю доступний зі статистики%country_adjective, з цією таблицею слід проконсультуватися для отримання інформації про національну методологію та іншу інформацію про метадані% country_adjective.","next":"Наступний індикатор","no_data_hint":"Немає доступних варіантів через фільтри вище","plot_legend_description":"Легенда графіка: список рядків, включених до діаграми","previous":"Попередній показник","select_all":"Обрати всі","series":"Серіал","series_help":"Виберіть категорії з розкривних списків нижче, щоб переглянути різні розбивки даних. Деякі з них не будуть доступні, поки не буде обрано більш високий рівень.","source":"Джерело","sources":"Джерела","status":"Стан індикатора","sub_categories":"Підкатегорії","sub_categories_show":"Показати підкатегорії:","table":"Таблиця","table_column_sort":"Клацніть, щоб відсортувати за цим стовпцем","tags":"Мітки","unit":"Блок","unit_of_measurement":"Одиниця виміру","units_type":"Тип одиниць вимірювання","variable_hint":"Доступно, якщо вибрано \"%поле\"","view_indicator_list":"Перегляд списку показників цієї цілі"};</script>
 
-<script>translations['data'] = null;</script>
+<script>translations['data'] = {"age_18":"до 18 років","age_18_34":"18 – 34 роки","age_35_59":"35 – 59 років","age_60":"понад 60 років","females":"жінки","hh_ch":"домогосподарства з дітьми","hh_ch_0":"домогосподарства без дітей","males":"чоловіки"};</script>
 
 
 <div class="container">
@@ -562,7 +562,7 @@ data-event-label="high"
   data-graphtargetlines="null"
   data-graphseriesbreaks="null"
   data-indicatordownloads="null"
-  data-dataschema="{&quot;fields&quot;:[{&quot;name&quot;:&quot;Year&quot;,&quot;type&quot;:&quot;integer&quot;,&quot;title&quot;:&quot;Year&quot;},{&quot;name&quot;:&quot;Age&quot;,&quot;type&quot;:&quot;string&quot;,&quot;constraints&quot;:{&quot;enum&quot;:[&quot;under 18 years old&quot;,&quot;18-34 years&quot;,&quot;35-59 years&quot;,&quot;60 years and older&quot;,&quot;&quot;]},&quot;title&quot;:&quot;Age&quot;},{&quot;name&quot;:&quot;Sex&quot;,&quot;type&quot;:&quot;string&quot;,&quot;constraints&quot;:{&quot;enum&quot;:[&quot;males&quot;,&quot;females&quot;,&quot;&quot;]},&quot;title&quot;:&quot;Sex&quot;},{&quot;name&quot;:&quot;Household group&quot;,&quot;type&quot;:&quot;string&quot;,&quot;constraints&quot;:{&quot;enum&quot;:[&quot;households with children&quot;,&quot;households without children&quot;,&quot;&quot;]},&quot;title&quot;:&quot;Household group&quot;},{&quot;name&quot;:&quot;Value&quot;,&quot;type&quot;:&quot;number&quot;,&quot;title&quot;:&quot;Value&quot;}]}"
+  data-dataschema="{&quot;fields&quot;:[{&quot;name&quot;:&quot;Year&quot;,&quot;type&quot;:&quot;integer&quot;,&quot;title&quot;:&quot;Year&quot;},{&quot;name&quot;:&quot;Age&quot;,&quot;type&quot;:&quot;string&quot;,&quot;constraints&quot;:{&quot;enum&quot;:[&quot;до 18 років&quot;,&quot;18 – 34 роки&quot;,&quot;35 – 59 років&quot;,&quot;понад 60 років&quot;,&quot;&quot;]},&quot;title&quot;:&quot;Age&quot;},{&quot;name&quot;:&quot;Sex&quot;,&quot;type&quot;:&quot;string&quot;,&quot;constraints&quot;:{&quot;enum&quot;:[&quot;чоловіки&quot;,&quot;жінки&quot;,&quot;&quot;]},&quot;title&quot;:&quot;Sex&quot;},{&quot;name&quot;:&quot;Household group&quot;,&quot;type&quot;:&quot;string&quot;,&quot;constraints&quot;:{&quot;enum&quot;:[&quot;47.4&quot;,&quot;домогосподарства з дітьми&quot;,&quot;домогосподарства без дітей&quot;,&quot;&quot;]},&quot;title&quot;:&quot;Household group&quot;},{&quot;name&quot;:&quot;Value&quot;,&quot;type&quot;:&quot;number&quot;,&quot;title&quot;:&quot;Value&quot;}]}"
   data-compositebreakdownlabel=""
   data-precision="[]"
 >
@@ -1349,7 +1349,7 @@ data-event-label="Change to Sources tab"
             
 
             
-              <a href="https://github.com/ukraine-sdg/data/commit/e427d7b1819be679a4fe9a905c3175089f18d0c2" target="_blank">
+              <a href="https://github.com/ukraine-sdg/data/commit/78d63d83fcc2c43f3093187d1a3f53dc7d59e17e" target="_blank">
                 2021-11-15: see changes on GitHub <span class="visuallyhidden">Відкрити у новому вікні</span>
               </a>
             
@@ -1840,12 +1840,12 @@ data-event-label="Change to Sources tab"
 <script>translations['search'] = translations['search'] || {};
     translations['search']['search'] = 'Пошук';</script>
 
-<script src='/site/assets/js/sdg.js?v=20211115165233'></script>
+<script src='/site/assets/js/sdg.js?v=20211115170800'></script>
 
 
     
     
-    <script src="/site/assets/js/custom.js?v=20211115165233"></script><script>
+    <script src="/site/assets/js/custom.js?v=20211115170800"></script><script>
 $(function() {
     if($('#indicatorData').length) {
       var domData = $('#indicatorData').data();
