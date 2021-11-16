@@ -1367,7 +1367,7 @@
         
         {
           "id": "16-1-1",
-          "title": "Number of criminal offenses under Articles 115–118, 121 of the Criminal Code of Ukraine (evident intentional homicide, intentional grievous bodily harm) reported in the past 12 months per 100 000 persons",
+          "title": "Кількість облікованих за останні 12 місяців кримінальних правопорушень за ст. 115 – 118, 121 КК України (очевидні умисні вбивства, умисні тяжкі тілесні ушкодження) в розрахунку на 100 000 осіб",
           "description": "",
           "keywords": "",
           "href": "/site/uk/16-1-1",
@@ -1375,7 +1375,7 @@
         },
         {
           "id": "16-1-2",
-          "title": "Number of victims of crimes related to physical violence (intentional homicide (and relevant attempts), rape (and relevant attempts), grievous bodily harm), reported over the past 12 months, per 100 000 persons",
+          "title": "Чисельність потерпілих від кримінальних правопорушень, пов'язаних з фізичним насильством (умисні вбивства (та замахи на них), зґвалтування (та замахи на них), тяжкі тілесні ушкодження), облікованих за останні 12 місяців, у розрахунку на 100 000 осіб",
           "description": "",
           "keywords": "",
           "href": "/site/uk/16-1-2",
@@ -1383,7 +1383,7 @@
         },
         {
           "id": "16-1-3",
-          "title": "Number of victims of rape in the past 12 months, persons",
+          "title": "Чисельність потерпілих за останні 12 місяців від зґвалтувань, осіб",
           "description": "",
           "keywords": "",
           "href": "/site/uk/16-1-3",
@@ -1391,7 +1391,7 @@
         },
         {
           "id": "16-2-1",
-          "title": "Number of victims of human trafficking or other illicit transactions involving the transfer of human beings reported in the past 12 months, persons",
+          "title": "Чисельність потерпілих у кримінальних правопорушеннях щодо торгівлі людьми або інших незаконних угод щодо передачі людини, облікованих за останні 12 місяців, осіб",
           "description": "",
           "keywords": "",
           "href": "/site/uk/16-2-1",
@@ -1399,7 +1399,7 @@
         },
         {
           "id": "16-2-2",
-          "title": "Number of specialists trained in combating human trafficking",
+          "title": "Кількість спеціалістів, які пройшли навчання з питань протидії торгівлі людьми",
           "description": "",
           "keywords": "",
           "href": "/site/uk/16-2-2",
@@ -1407,7 +1407,7 @@
         },
         {
           "id": "16-2-3",
-          "title": "Number of social services provided to meet the needs of victims of human trafficking",
+          "title": "Кількість наданих соціальних послуг відповідно до потреб осіб, які звернулися щодо торгівлі людьми",
           "description": "",
           "keywords": "",
           "href": "/site/uk/16-2-3",
@@ -1415,7 +1415,7 @@
         },
         {
           "id": "16-2-4",
-          "title": "Number of counter-trafficking information campaigns conducted",
+          "title": "Кількість проведених інформаційних кампаній щодо протидії торгівлі людьми",
           "description": "",
           "keywords": "",
           "href": "/site/uk/16-2-4",
@@ -1423,7 +1423,7 @@
         },
         {
           "id": "16-2-5",
-          "title": "Number of persons covered by counter-trafficking information campaigns",
+          "title": "Кількість осіб, які були охоплені інформаційними кампаніями щодо протидії торгівлі людьми",
           "description": "",
           "keywords": "",
           "href": "/site/uk/16-2-5",
@@ -1431,7 +1431,7 @@
         },
         {
           "id": "16-2-6",
-          "title": "Percentage of funding of regional counter-trafficking programs from relevant local budgets",
+          "title": "Відсоток фінансової забезпеченості регіональних програм щодо протидії торгівлі, за рахунок відповідних місцевих бюджетів",
           "description": "",
           "keywords": "",
           "href": "/site/uk/16-2-6",
@@ -1439,7 +1439,7 @@
         },
         {
           "id": "16-2-7",
-          "title": "Number of persons who obtained the victim of trafficking status, persons",
+          "title": "Кількість осіб, яким встановлено статус особи, яка постраждала від торгівлі людьми, осіб",
           "description": "",
           "keywords": "",
           "href": "/site/uk/16-2-7",
@@ -1447,7 +1447,7 @@
         },
         {
           "id": "16-3-1",
-          "title": "Level of public confidence in the court, %",
+          "title": "Рівень довіри громадян до суду, %",
           "description": "",
           "keywords": "",
           "href": "/site/uk/16-3-1",
@@ -1455,7 +1455,7 @@
         },
         {
           "id": "16-3-2",
-          "title": "Number of persons seeking free legal aid, persons",
+          "title": "Кількість осіб, які звертаються за безоплатною правовою допомогою, осіб",
           "description": "",
           "keywords": "",
           "href": "/site/uk/16-3-2",
@@ -1463,7 +1463,7 @@
         },
         {
           "id": "16-4-1",
-          "title": "Share of high-level risks in the overall national aggregate of risks in the system for preventing and counteracting the legalization of illegal incomes, the financing of terrorism and the proliferation of weapons of mass destruction, %",
+          "title": "Частка ризиків з високим рівнем у загальній сукупності національних ризиків у системі запобігання та протидії легалізації доходів, одержаних злочинним шляхом, фінансуванню тероризму та розповсюдженню зброї масового знищення, %",
           "description": "",
           "keywords": "",
           "href": "/site/uk/16-4-1",
@@ -1471,7 +1471,7 @@
         },
         {
           "id": "16-5-1",
-          "title": "Number of weapons seized (criminal proceedings with completed pre-trial investigation for the past 12 months, units)",
+          "title": "Кількість вилученої зброї (кримінальні провадження, у яких закінчено досудове розслідування, за останні 12 місяців, одиниць)",
           "description": "",
           "keywords": "",
           "href": "/site/uk/16-5-1",
@@ -1479,7 +1479,7 @@
         },
         {
           "id": "16-5-2",
-          "title": "Number of ammunition seized (criminal proceedings with completed pre-trial investigation for the past 12 months, units)",
+          "title": "Кількість вилучених боєприпасів (кримінальні провадження, у яких закінчено досудове розслідування, за останні 12 місяців, одиниць)",
           "description": "",
           "keywords": "",
           "href": "/site/uk/16-5-2",
@@ -1487,7 +1487,7 @@
         },
         {
           "id": "16-5-3",
-          "title": "Number of criminal offenses related to illicit arms trafficking reported in the past 12 months, units",
+          "title": "Кількість кримінальних правопорушень, пов'язаних із незаконним обігом зброї, облікованих за останні 12 місяців, одиниць",
           "description": "",
           "keywords": "",
           "href": "/site/uk/16-5-3",
@@ -1495,7 +1495,7 @@
         },
         {
           "id": "16-6-1",
-          "title": "Index of perception of corruption in the public sector by the business community and experts",
+          "title": "Показник сприйняття рівня корупції в державному секторі з боку ділових кіл та експертів",
           "description": "",
           "keywords": "",
           "href": "/site/uk/16-6-1",
@@ -1503,7 +1503,7 @@
         },
         {
           "id": "16-7-1",
-          "title": "Ukraine_s ranking in the Global Competitiveness Report by sub-index /Institutions (government and public institutions)/",
+          "title": "Місце України у рейтингу Global Competitiveness Report за субіндексом ‘Інституції (державні та суспільні установи)’",
           "description": "",
           "keywords": "",
           "href": "/site/uk/16-7-1",
@@ -1511,7 +1511,7 @@
         },
         {
           "id": "16-8-1",
-          "title": "Share of the population satisfied with their experience of the use of infrastructure and the level of social services in key areas in Donetsk and Luhansk regions, %",
+          "title": "Частка населення, задоволеного досвідом користування інфраструктурними об’єктами та рівнем надання соціальних послуг у ключових сферах, у Донецькій та Луганській областях, %",
           "description": "",
           "keywords": "",
           "href": "/site/uk/16-8-1",
@@ -1519,7 +1519,7 @@
         },
         {
           "id": "16-8-2",
-          "title": "Share of the population satisfied with the level of administrative governance services in Donetsk and Luhansk regions, %",
+          "title": "Частка населення, задоволеного рівнем надання послуг у сфері адміністративного управління, у Донецькій та Луганській областях, %",
           "description": "",
           "keywords": "",
           "href": "/site/uk/16-8-2",
@@ -1527,7 +1527,7 @@
         },
         {
           "id": "16-8-3",
-          "title": "Number of communities in the Donetsk and Luhansk regions that implemented mine action, units",
+          "title": "Кількість громад на територіях Донецької та Луганської областей, у яких впроваджено заходи щодо протимінної діяльності, одиниць",
           "description": "",
           "keywords": "",
           "href": "/site/uk/16-8-3",
@@ -1535,7 +1535,7 @@
         },
         {
           "id": "16-8-4",
-          "title": "Demined area in Donetsk and Luhansk regions, hectares",
+          "title": "Площа розмінування територій Донецької та Луганської областей, га",
           "description": "",
           "keywords": "",
           "href": "/site/uk/16-8-4",
@@ -1543,7 +1543,7 @@
         },
         {
           "id": "16-8-5",
-          "title": "Number of cases of detection of explosive objects (operative component), units",
+          "title": "Кількість випадків виявлення вибухонебезпечних предметів (оперативна складова), одиниць",
           "description": "",
           "keywords": "",
           "href": "/site/uk/16-8-5",
@@ -1551,7 +1551,7 @@
         },
         {
           "id": "16-9-1",
-          "title": "Index of social cohesion and reconciliation",
+          "title": "Індекс соціальної єдності та примирення",
           "description": "",
           "keywords": "",
           "href": "/site/uk/16-9-1",
@@ -1567,7 +1567,7 @@
         
         {
           "id": "17-1-1",
-          "title": "Ratio of private remittances from abroad to GDP, %",
+          "title": "Співвідношення обсягу приватних грошових переказів із-за кордону із ВВП, %",
           "description": "",
           "keywords": "",
           "href": "/site/uk/17-1-1",
@@ -1575,7 +1575,7 @@
         },
         {
           "id": "17-1-2",
-          "title": "Net foreign direct investment (according to the balance of payments), USD billions",
+          "title": "Чистий притік прямих іноземних інвестицій (за даними платіжного балансу), млн дол. США",
           "description": "",
           "keywords": "",
           "href": "/site/uk/17-1-2",
@@ -1583,7 +1583,7 @@
         },
         {
           "id": "17-2-1",
-          "title": "Ratio of gross external debt to exports of goods and services in annual terms, %",
+          "title": "Відношення валового зовнішнього боргу до експорту товарів та послуг у річному вимірі, %",
           "description": "",
           "keywords": "",
           "href": "/site/uk/17-2-1",
@@ -1591,7 +1591,7 @@
         },
         {
           "id": "17-3-1",
-          "title": "Number of projects of public–private partnership, units",
+          "title": "Кількість проектів публічно-приватного партнерства",
           "description": "",
           "keywords": "",
           "href": "/site/uk/17-3-1",
