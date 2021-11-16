@@ -55,7 +55,7 @@
         
         {
           "id": "2-1-1",
-          "title": "Consumption of meat per capita, kg/year",
+          "title": "Споживання м’яса в розрахунку на одну особу, кг/рік",
           "description": "",
           "keywords": "",
           "href": "/site/uk/2-1-1",
@@ -63,7 +63,7 @@
         },
         {
           "id": "2-1-2",
-          "title": "Consumption of milk and dairy products per capita, kg/year",
+          "title": "Споживання молока в розрахунку на одну особу, кг/рік",
           "description": "",
           "keywords": "",
           "href": "/site/uk/2-1-2",
@@ -71,7 +71,7 @@
         },
         {
           "id": "2-1-3",
-          "title": "Consumption of fish per capita, kg/year",
+          "title": "Споживання риби у розрахунку на одну особу, кг/рік",
           "description": "",
           "keywords": "",
           "href": "/site/uk/2-1-3",
@@ -79,7 +79,7 @@
         },
         {
           "id": "2-1-4",
-          "title": "Consumption of vegetables per capita, kg/year",
+          "title": "Споживання овочів у розрахунку на одну особу, кг/рік",
           "description": "",
           "keywords": "",
           "href": "/site/uk/2-1-4",
@@ -87,7 +87,7 @@
         },
         {
           "id": "2-1-5",
-          "title": "Consumption of fruit per capita, kg/year",
+          "title": "Споживання фруктів у розрахунку на одну особу, кг/рік",
           "description": "",
           "keywords": "",
           "href": "/site/uk/2-1-5",
@@ -95,7 +95,7 @@
         },
         {
           "id": "2-2-1",
-          "title": "Labour productivity in agriculture, USD 1000s per employee",
+          "title": "Продуктивність праці в сільському господарстві, тис. доларів США на одного зайнятого",
           "description": "",
           "keywords": "",
           "href": "/site/uk/2-2-1",
@@ -103,7 +103,7 @@
         },
         {
           "id": "2-2-2",
-          "title": "The index of agricultural production, %",
+          "title": "Індекс сільськогосподарської продукції, %",
           "description": "",
           "keywords": "",
           "href": "/site/uk/2-2-2",
@@ -111,7 +111,7 @@
         },
         {
           "id": "2-3-1",
-          "title": "The index of food production, %",
+          "title": "Індекс виробництва харчових продуктів, %",
           "description": "",
           "keywords": "",
           "href": "/site/uk/2-3-1",
@@ -119,7 +119,7 @@
         },
         {
           "id": "2-3-2",
-          "title": "Share of food industry and agricultural raw materials processing production in exports of Ukrainian Classifier of Goods for Foreign Economic Activity groups 1–24, %",
+          "title": "Частка продукції харчової промисловості та переробки сільськогосподарської сировини в експорті груп 1-24 УКТЗЕД, %",
           "description": "",
           "keywords": "",
           "href": "/site/uk/2-3-2",
@@ -127,7 +127,7 @@
         },
         {
           "id": "2-3-3",
-          "title": "Share of agricultural land under organic production in the total area of agricultural land, %",
+          "title": "Частка сільськогосподарських угідь під органічним виробництвом, у загальній площі сільськогосподарських угідь, %",
           "description": "",
           "keywords": "",
           "href": "/site/uk/2-3-3",
@@ -135,7 +135,7 @@
         },
         {
           "id": "2-4-1",
-          "title": "The consumer price index for food, %",
+          "title": "Індекс споживчих цін на продукти харчування, %",
           "description": "",
           "keywords": "",
           "href": "/site/uk/2-4-1",
@@ -151,7 +151,7 @@
         
         {
           "id": "3-1-1",
-          "title": "Number of cases of maternal mortality, per 100000 live births",
+          "title": "Кількість випадків материнської смерті, на 100 000 живонароджених",
           "description": "",
           "keywords": "",
           "href": "/site/uk/3-1-1",
@@ -159,7 +159,7 @@
         },
         {
           "id": "3-2-1",
-          "title": "Mortality of children under 5, cases per 1000 live births",
+          "title": "Смертність дітей у віці до 5 років, випадків на 1000 живонароджених",
           "description": "",
           "keywords": "",
           "href": "/site/uk/3-2-1",
@@ -167,7 +167,7 @@
         },
         {
           "id": "3-3-1",
-          "title": "Number of patients diagnosted with HIV for the first time, per 100000 persons",
+          "title": "Кількість хворих з уперше в житті встановленим діагнозом ВІЛ, на 100 000 населення",
           "description": "",
           "keywords": "",
           "href": "/site/uk/3-3-1",
@@ -175,7 +175,7 @@
         },
         {
           "id": "3-3-2",
-          "title": "Number of patients diagnosted with active tuberculosis for the first time, per 100000 persons",
+          "title": "Кількість хворих з уперше в житті встановленим діагнозом активного туберкульозу, на 100 000 населення",
           "description": "",
           "keywords": "",
           "href": "/site/uk/3-3-2",
@@ -183,7 +183,7 @@
         },
         {
           "id": "3-4-1",
-          "title": "Number of deaths from cerebrovascular disease at the age of 30–59, per 100000 men of corresponding age",
+          "title": "Кількість смертей чоловіків від цереброваскулярних хвороб у віці 30–59 років, на 100 000 чоловіків відповідного віку",
           "description": "",
           "keywords": "",
           "href": "/site/uk/3-4-1",
@@ -191,7 +191,7 @@
         },
         {
           "id": "3-4-2",
-          "title": "Number of deaths from cerebrovascular disease at the age of 30–59, per 100000 women of corresponding age",
+          "title": "Кількість смертей жінок від цереброваскулярних хвороб у віці 30 – 59 років, на 100 000 жінок відповідного віку",
           "description": "",
           "keywords": "",
           "href": "/site/uk/3-4-2",
@@ -199,7 +199,7 @@
         },
         {
           "id": "3-4-3",
-          "title": "Number of deaths from malignant breast tumours at the age of 30–59, per 100000 women of appropriate age",
+          "title": "Кількість смертей жінок від злоякісного новоутворення молочної залози у віці 30-59 років, на 100 000 жінок відповідного віку",
           "description": "",
           "keywords": "",
           "href": "/site/uk/3-4-3",
@@ -207,7 +207,7 @@
         },
         {
           "id": "3-4-4",
-          "title": "Number of deaths from malignant cervical tumours at the age of 30–59, per 100000 women of appropriate age",
+          "title": "Кількість смертей жінок від злоякісного новоутворення шийки матки у віці 30-59 років, на 100 000 жінок відповідного віку",
           "description": "",
           "keywords": "",
           "href": "/site/uk/3-4-4",
@@ -215,7 +215,7 @@
         },
         {
           "id": "3-5-1",
-          "title": "Probability of dying at the age of 20–64, men",
+          "title": "Імовірність померти у 20-64 роки, чоловіки",
           "description": "",
           "keywords": "",
           "href": "/site/uk/3-5-1",
@@ -223,7 +223,7 @@
         },
         {
           "id": "3-5-2",
-          "title": "Probability of dying at the age of 20–64, women",
+          "title": "Імовірність померти у 20-64 роки, жінки",
           "description": "",
           "keywords": "",
           "href": "/site/uk/3-5-2",
@@ -231,7 +231,7 @@
         },
         {
           "id": "3-6-1",
-          "title": "Number of deaths from road traffic accidents, per 100000 persons",
+          "title": "Кількість смертей унаслідок транспортних нещасних випадків, на 100 000 населення",
           "description": "",
           "keywords": "",
           "href": "/site/uk/3-6-1",
@@ -239,7 +239,7 @@
         },
         {
           "id": "3-6-2",
-          "title": "Number of persons injured in road accidents, per 100000 persons",
+          "title": "Кількість травмованих осіб унаслідок дорожньо-транспортних пригод, на 100 000 населення",
           "description": "",
           "keywords": "",
           "href": "/site/uk/3-6-2",
@@ -247,7 +247,7 @@
         },
         {
           "id": "3-7-1",
-          "title": "Immunization rate of population according to the Preventive Vaccination Calendar by designated six age groups for prevention of ten infectious diseases, %",
+          "title": "Рівень імунізації населення згідно з Календарем профілактичних щеплень до визначених шести вікових груп при профілактиці десяти інфекційних захворювань, %",
           "description": "",
           "keywords": "",
           "href": "/site/uk/3-7-1",
@@ -255,7 +255,7 @@
         },
         {
           "id": "3-8-1",
-          "title": "Share of women who smoke at the age of 16–29, %",
+          "title": "Частка осіб, які курять, серед жінок віком 16-29 років, %",
           "description": "",
           "keywords": "",
           "href": "/site/uk/3-8-1",
@@ -263,7 +263,7 @@
         },
         {
           "id": "3-8-2",
-          "title": "Share of men who smoke at the age of 16–29, %",
+          "title": "Частка осіб, які курять, серед чоловіків віком 16-29 років, %",
           "description": "",
           "keywords": "",
           "href": "/site/uk/3-8-2",
@@ -271,7 +271,7 @@
         },
         {
           "id": "3-9-1",
-          "title": "Share of expenditures of the population in general spending on health, %",
+          "title": "Частка витрат населення у загальних видатках на охорону здоров’я, %",
           "description": "",
           "keywords": "",
           "href": "/site/uk/3-9-1",
@@ -287,7 +287,7 @@
         
         {
           "id": "4-1-1",
-          "title": "Share of graduates of general secondary education institutions in the current year who have target level of academic achievement in the Ukrainian language",
+          "title": "Частка випускників закладів загальної середньої освіти поточного року, які досягли визначених рівнів навчальних досягнень з української мови",
           "description": "",
           "keywords": "",
           "href": "/site/uk/4-1-1",
@@ -295,7 +295,7 @@
         },
         {
           "id": "4-1-2",
-          "title": "Number of full-time secondary school students per teacher, at the beginning of the school year",
+          "title": "Кількість учнів денних закладів загальної середньої освіти у розрахунку на одного вчителя, на початок навчального року",
           "description": "",
           "keywords": "",
           "href": "/site/uk/4-1-2",
@@ -303,7 +303,7 @@
         },
         {
           "id": "4-2-1",
-          "title": "Coverage of children aged 5 years by pre-school education institutions and structural units of public and private legal entities, %",
+          "title": "Показник охоплення дітей віком 5 років закладами дошкільної освіти та структурними підрозділами юридичних осіб публічного та приватного права, %",
           "description": "",
           "keywords": "",
           "href": "/site/uk/4-2-1",
@@ -311,7 +311,7 @@
         },
         {
           "id": "4-3-1",
-          "title": "Ratio of the number of entrants to vocational technical establishments to the total number of places in vocational technical establishments funded from the state and local budgets",
+          "title": "Відношення кількості вступників до закладів професійної (професійно-технічної) освіти до загальної кількості місць у закладах професійної (професійно-технічної) освіти, що фінансуються з державних та місцевих бюджетів",
           "description": "",
           "keywords": "",
           "href": "/site/uk/4-3-1",
@@ -319,7 +319,7 @@
         },
         {
           "id": "4-4-1",
-          "title": "Number of Ukrainian cities - members of the UNESCO Global Network of Learning Cities",
+          "title": "Кількість українських міст, що є членами Глобальної мережі міст ЮНЕСКО, що навчаються",
           "description": "",
           "keywords": "",
           "href": "/site/uk/4-4-1",
@@ -327,7 +327,7 @@
         },
         {
           "id": "4-4-2",
-          "title": "Population by the level of education and gender, %",
+          "title": "Населення за рівнем освіти та статтю, %",
           "description": "",
           "keywords": "",
           "href": "/site/uk/4-4-2",
@@ -335,7 +335,7 @@
         },
         {
           "id": "4-4-3",
-          "title": "Cost of training a specialist",
+          "title": "Витрати на підготовку фахівця",
           "description": "",
           "keywords": "",
           "href": "/site/uk/4-4-3",
@@ -343,7 +343,7 @@
         },
         {
           "id": "4-4-4",
-          "title": "Expenditures of higher education institutions on scientific research activities",
+          "title": "Витрати закладів вищої освіти на провадження наукової діяльності",
           "description": "",
           "keywords": "",
           "href": "/site/uk/4-4-4",
@@ -351,7 +351,7 @@
         },
         {
           "id": "4-5-1",
-          "title": "Level of participation of the population in formal and informal forms of education and vocational training, %",
+          "title": "Рівень участі населення у формальних та неформальних видах навчання та професійної підготовки, %",
           "description": "",
           "keywords": "",
           "href": "/site/uk/4-5-1",
@@ -359,7 +359,7 @@
         },
         {
           "id": "4-5-2",
-          "title": "Share of the population who reported using the Internet over the past 12 months, %",
+          "title": "Частка населення, яке повідомило, що за останні 12 місяців користувалось послугами Інтернету, %",
           "description": "",
           "keywords": "",
           "href": "/site/uk/4-5-2",
@@ -367,7 +367,7 @@
         },
         {
           "id": "4-6-1",
-          "title": "Share of men among pedagogical staff, %",
+          "title": "Частка чоловіків серед педагогічних працівників, %",
           "description": "",
           "keywords": "",
           "href": "/site/uk/4-6-1",
@@ -375,7 +375,7 @@
         },
         {
           "id": "4-7-1",
-          "title": "Share of rural full-time secondary schools with Internet access, %",
+          "title": "Частка закладів загальної середньої освіти у сільській місцевості, що мають доступ до мережі Інтернет, %",
           "description": "",
           "keywords": "",
           "href": "/site/uk/4-7-1",
@@ -383,7 +383,7 @@
         },
         {
           "id": "4-7-2",
-          "title": "Share of rural full-time secondary schools, where computers are used in the educational process, %",
+          "title": "Частка закладів загальної середньої освіти у сільській місцевості, в яких комп’ютери використовуються в освітньому процесі, %",
           "description": "",
           "keywords": "",
           "href": "/site/uk/4-7-2",
@@ -391,7 +391,7 @@
         },
         {
           "id": "4-7-3",
-          "title": "Share of full-time secondary schools with inclusive education, %",
+          "title": "Частка денних закладів загальної середньої освіти, у яких організовано інклюзивне навчання, %",
           "description": "",
           "keywords": "",
           "href": "/site/uk/4-7-3",
