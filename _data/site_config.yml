@@ -135,15 +135,15 @@ indicator_config_form:
   enabled: true
   dropdowns: []
   repository_link: >-
-    https://github.com/open-sdg/open-sdg-data-starter/tree/develop/indicator-config
+    https://github.com/ukraine-sdg/data/tree/develop/indicator-config
   translation_link: ''
 indicator_data_form:
   enabled: true
-  repository_link: 'https://github.com/open-sdg/open-sdg-data-starter/tree/develop/data'
+  repository_link: 'https://github.com/ukraine-sdg/data/tree/develop/data'
 indicator_metadata_form:
   enabled: true
   dropdowns: []
-  repository_link: 'https://github.com/open-sdg/open-sdg-data-starter/tree/develop/meta'
+  repository_link: 'https://github.com/ukraine-sdg/data/tree/develop/meta'
   translation_link: ''
   language: ''
   scopes:
