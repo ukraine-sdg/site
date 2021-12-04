@@ -107,15 +107,14 @@ frontpage_cards:
     rule_color: ''
 frontpage_goals_grid:
   title: Ukrainian data for Sustainable Development Goal indicators
-  description: >-
-    Testing stuff that looks like stuff
+  description: Testing stuff that looks like stuff
 frontpage_heading: ''
 frontpage_instructions: ''
 frontpage_introduction_banner:
   title: frontpage.intro_title
   description: frontpage.intro_body
-goal_image_base: 'https://open-sdg.org/sdg-translations/assets/img/goals'
-goal_image_extension: ''
+goal_image_base: 'https://ukraine-sdg.github.io/site/assets/img/goals'
+goal_image_extension: svg
 goals_page:
   title: general.goals
   description: goal.description
@@ -134,8 +133,7 @@ hide_single_unit: true
 indicator_config_form:
   enabled: true
   dropdowns: []
-  repository_link: >-
-    https://github.com/ukraine-sdg/data/tree/develop/indicator-config
+  repository_link: 'https://github.com/ukraine-sdg/data/tree/develop/indicator-config'
   translation_link: ''
 indicator_data_form:
   enabled: true
@@ -206,17 +204,32 @@ metadata_tabs: []
 news:
   category_links: false
 non_global_metadata: indicator.national_metadata
+progress_status:
+  status_heading: ''
+  status_types: []
 remote_data_prefix: 'https://ukraine-sdg.github.io/data/'
 reporting_status:
   title: status.reporting_status
   description: status.description
   disaggregation_tabs: false
+  status_types:
+    - value: complete
+      label: status.reported
+      hide_on_goal_pages: false
+    - value: inprogress
+      label: status.statistics_in_progress
+      hide_on_goal_pages: false
+    - value: notstarted
+      label: status.exploring_data_sources
+      hide_on_goal_pages: false
+    - value: notapplicable
+      label: status.not_applicable
+      hide_on_goal_pages: false
 repository_url_data: 'https://github.com/ukraine-sdg/data'
 repository_url_site: 'https://github.com/ukraine-sdg/site'
 search_index_boost: []
 search_index_extra_fields: []
 series_toggle: true
-sharethis_property: ''
 site_config_form:
   enabled: true
   dropdowns: []
