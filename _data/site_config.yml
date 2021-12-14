@@ -89,25 +89,22 @@ frontpage_cards:
     button_label: ''
     button_link: ''
     rule_color: ''
-  - title: Lorem ipsum
-    content: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi mollis
-      cursus est sed dapibus.
+  - title: statistics_Ukraine
+    content: ''
     include: ''
-    button_label: Read more
-    button_link: 'https://example.com'
+    button_label: ''
+    button_link: 'http://www.ukrstat.gov.ua/'
     rule_color: ''
-  - title: Nam vestibulum
-    content: |
-      Nam vestibulum, purus quis porttitor imperdiet, nisl sem mollis nisl, a
-      interdum risus enim vitae tortor. Donec feugiat accumsan rutrum.
+  - title: sdg_ukrstat
+    content: |+
+
     include: ''
-    button_label: Read more
-    button_link: 'https://example.com'
+    button_label: ''
+    button_link: 'http://www.ukrstat.gov.ua/csr_prezent/ukr/st_rozv/metadata/metadata.htm'
     rule_color: ''
 frontpage_goals_grid:
-  title: custom.frontpage_goals_grid_title
-  description: custom.frontpage_goals_grid_description
+  title: Ukrainian data for Sustainable Development Goal indicators
+  description: Testing stuff that looks like stuff
 frontpage_heading: ''
 frontpage_instructions: ''
 frontpage_introduction_banner:
