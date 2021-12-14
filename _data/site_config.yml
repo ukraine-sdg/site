@@ -92,14 +92,14 @@ frontpage_cards:
   - title: custom.statistics_Ukraine
     content: ''
     include: ''
-    button_label: custom.statistics_Ukraine
+    button_label: ''
     button_link: 'http://www.ukrstat.gov.ua/'
     rule_color: ''
   - title: custom.sdg_ukrstat
     content: |+
 
     include: ''
-    button_label: custom.Statistics Ukraine SDG
+    button_label: ''
     button_link: 'http://www.ukrstat.gov.ua/csr_prezent/ukr/st_rozv/metadata/metadata.htm'
     rule_color: ''
 frontpage_goals_grid:
@@ -109,7 +109,7 @@ frontpage_heading: ''
 frontpage_instructions: ''
 frontpage_introduction_banner:
   title: frontpage.intro_title
-  description: frontpage.intro_body
+  description: custom.frontpage_intro_banner_body
 goal_image_base: 'https://ukraine-sdg.github.io/site/assets/img/goals'
 goal_image_extension: svg
 goals_page:
