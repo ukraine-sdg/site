@@ -106,8 +106,8 @@ frontpage_cards:
     button_link: 'https://example.com'
     rule_color: ''
 frontpage_goals_grid:
-  title: Ukrainian data for Sustainable Development Goal indicators
-  description: Testing stuff that looks like stuff
+  title: custom.frontpage_goals_grid_title
+  description: custom.frontpage_goals_grid_description
 frontpage_heading: ''
 frontpage_instructions: ''
 frontpage_introduction_banner:
