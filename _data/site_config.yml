@@ -92,7 +92,7 @@ frontpage_cards:
   - title: statistics_Ukraine
     content: ''
     include: ''
-    button_label: Statistics Ukraine
+    button_label: statistics_Ukraine
     button_link: 'http://www.ukrstat.gov.ua/'
     rule_color: ''
   - title: sdg_ukrstat
@@ -103,8 +103,8 @@ frontpage_cards:
     button_link: 'http://www.ukrstat.gov.ua/csr_prezent/ukr/st_rozv/metadata/metadata.htm'
     rule_color: ''
 frontpage_goals_grid:
-  title: Ukrainian data for Sustainable Development Goal indicators
-  description: Testing stuff that looks like stuff
+  title: frontpage_goals_grid_title
+  description: frontpage_goals_grid_description
 frontpage_heading: ''
 frontpage_instructions: ''
 frontpage_introduction_banner:
