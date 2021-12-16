@@ -12,7 +12,7 @@
 # For example, if your production organisation is "my-stats-org", then use:
 #
 # REPOSITORY_NAME: my-stats-org/my-stats-org.github.io
-# 
+#  
 # ****************************************************************************
 
 name: Deploy to production
