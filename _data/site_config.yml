@@ -92,14 +92,14 @@ frontpage_cards:
   - title: custom.statistics_Ukraine
     content: ''
     include: ''
-    button_label: custom.statistics_Ukraine
+    button_label: statistics_Ukraine
     button_link: 'http://www.ukrstat.gov.ua/'
     rule_color: ''
   - title: custom.sdg_ukrstat
     content: |+
 
     include: ''
-    button_label: custom.sdg_ukrstat
+    button_label: sdg_ukrstat
     button_link: 'http://www.ukrstat.gov.ua/csr_prezent/ukr/st_rozv/metadata/metadata.htm'
     rule_color: ''
 frontpage_goals_grid:
