@@ -133,7 +133,7 @@ var translations = {
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" crossorigin="">
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" crossorigin="">
         <link rel="stylesheet" href="https://cdn.datatables.net/fixedcolumns/3.2.3/css/fixedColumns.dataTables.min.css" crossorigin="">
-        <link rel="stylesheet" href="/site/assets/css/style.css?v=20211216181741">
+        <link rel="stylesheet" href="/site/assets/css/style.css?v=20211218213738">
         <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.4/dist/leaflet.css"
           integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
           crossorigin=""/>
@@ -161,7 +161,7 @@ layout-config-builder
   <div class="disclaimer-alert">
     <strong class="phase-tag">Альфа</strong>
     
-    Ми вітаємо ваш відгук <a href="mailto:test@example.com"></a>.
+    Ми вітаємо ваш відгук <a href="mailto:ukraine.sdg@gmail.com"></a>.
   </div>
 </div>
 
@@ -874,7 +874,7 @@ data-event-label="high"
 
     
       try {
-        var currentValue = normalizeCurrentValue('email_contacts', {"questions":"test@example.com","suggestions":"test@example.com","functional":"test@example.com"});
+        var currentValue = normalizeCurrentValue('email_contacts', {"questions":"ukraine.sdg@gmail.com","suggestions":"ukraine.sdg@gmail.com","functional":"ukraine.sdg@gmail.com"});
         var propertyEditor = editor.getEditor('root.email_contacts');
         propertyEditor.setValue(null);
         propertyEditor.setValue(currentValue);
@@ -956,7 +956,7 @@ data-event-label="high"
 
     
       try {
-        var currentValue = normalizeCurrentValue('frontpage_cards', [{"title":"frontpage.download_all","content":"","include":"components/download-all-data.html","button_label":"","button_link":"","rule_color":""},{"title":"custom.statistics_Ukraine","content":"","include":"","button_label":"","button_link":"http://www.ukrstat.gov.ua/","rule_color":""},{"title":"custom.sdg_ukrstat","content":"\n","include":"","button_label":"","button_link":"http://www.ukrstat.gov.ua/csr_prezent/ukr/st_rozv/metadata/metadata.htm","rule_color":""}]);
+        var currentValue = normalizeCurrentValue('frontpage_cards', [{"title":"frontpage.download_all","content":"","include":"components/download-all-data.html","button_label":"","button_link":"","rule_color":""},{"title":"custom.statistics_Ukraine","content":"","include":"","button_label":"custom.statistics_Ukraine","button_link":"http://www.ukrstat.gov.ua/","rule_color":""},{"title":"custom.sdg_ukrstat","content":"\n","include":"","button_label":"custom.sdg_ukrstat","button_link":"http://www.ukrstat.gov.ua/csr_prezent/ukr/st_rozv/metadata/metadata.htm","rule_color":""}]);
         var propertyEditor = editor.getEditor('root.frontpage_cards');
         propertyEditor.setValue(null);
         propertyEditor.setValue(currentValue);
@@ -1714,12 +1714,12 @@ data-event-label="high"
 <script>translations['search'] = translations['search'] || {};
     translations['search']['search'] = 'Пошук';</script>
 
-<script src='/site/assets/js/sdg.js?v=20211216181741'></script>
+<script src='/site/assets/js/sdg.js?v=20211218213738'></script>
 
 
     
     
-    <script src="/site/assets/js/custom.js?v=20211216181741"></script><script>
+    <script src="/site/assets/js/custom.js?v=20211218213738"></script><script>
 $(function() {
     if($('#indicatorData').length) {
       var domData = $('#indicatorData').data();
