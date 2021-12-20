@@ -67,9 +67,9 @@ disclaimer:
   phase: ''
   message: ''
 email_contacts:
-  questions: test@example.com
-  suggestions: test@example.com
-  functional: test@example.com
+  questions: ukraine.sdg@gmail.com
+  suggestions: ukraine.sdg@gmail.com
+  functional: ukraine.sdg@gmail.com
 environment: staging
 favicons: favicon.io
 footer_language_toggle: none
@@ -92,14 +92,14 @@ frontpage_cards:
   - title: custom.statistics_Ukraine
     content: ''
     include: ''
-    button_label: ''
+    button_label: link
     button_link: 'http://www.ukrstat.gov.ua/'
     rule_color: ''
   - title: custom.sdg_ukrstat
     content: |+
 
     include: ''
-    button_label: ''
+    button_label: link
     button_link: 'http://www.ukrstat.gov.ua/csr_prezent/ukr/st_rozv/metadata/metadata.htm'
     rule_color: ''
 frontpage_goals_grid:
