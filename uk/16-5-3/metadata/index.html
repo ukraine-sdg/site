@@ -133,7 +133,7 @@ var translations = {
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" crossorigin="">
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" crossorigin="">
         <link rel="stylesheet" href="https://cdn.datatables.net/fixedcolumns/3.2.3/css/fixedColumns.dataTables.min.css" crossorigin="">
-        <link rel="stylesheet" href="/site/assets/css/style.css?v=20211221145340">
+        <link rel="stylesheet" href="/site/assets/css/style.css?v=20211221150407">
         <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.4/dist/leaflet.css"
           integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
           crossorigin=""/>
@@ -818,7 +818,7 @@ data-event-label="high"
 
     
       try {
-        var currentValue = normalizeCurrentValue('UNIT_MEASURE', "criminal offenses per 100,000 population, number of criminal offenses");
+        var currentValue = normalizeCurrentValue('UNIT_MEASURE', "criminal offenses per 100,000 persons, number of criminal offenses");
         var propertyEditor = editor.getEditor('root.UNIT_MEASURE');
         propertyEditor.setValue(null);
         propertyEditor.setValue(currentValue);
@@ -902,7 +902,7 @@ data-event-label="high"
 
     
       try {
-        var currentValue = normalizeCurrentValue('national_metadata_update_url', "https://github.com/ukraine-sdg/data/commit/3a3c436f9efc65eb0559ef2a7d74e8d98f67c886");
+        var currentValue = normalizeCurrentValue('national_metadata_update_url', "https://github.com/ukraine-sdg/data/commit/cd01212f0b82f87f2730ca208a1f1df3ecfce93e");
         var propertyEditor = editor.getEditor('root.national_metadata_update_url');
         propertyEditor.setValue(null);
         propertyEditor.setValue(currentValue);
@@ -1060,12 +1060,12 @@ data-event-label="high"
 <script>translations['search'] = translations['search'] || {};
     translations['search']['search'] = 'Пошук';</script>
 
-<script src='/site/assets/js/sdg.js?v=20211221145340'></script>
+<script src='/site/assets/js/sdg.js?v=20211221150407'></script>
 
 
     
     
-    <script src="/site/assets/js/custom.js?v=20211221145340"></script><script>
+    <script src="/site/assets/js/custom.js?v=20211221150407"></script><script>
 $(function() {
     if($('#indicatorData').length) {
       var domData = $('#indicatorData').data();
