@@ -133,7 +133,7 @@ var translations = {
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" crossorigin="">
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" crossorigin="">
         <link rel="stylesheet" href="https://cdn.datatables.net/fixedcolumns/3.2.3/css/fixedColumns.dataTables.min.css" crossorigin="">
-        <link rel="stylesheet" href="/site/assets/css/style.css?v=20211222120104">
+        <link rel="stylesheet" href="/site/assets/css/style.css?v=20211222121032">
         <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.4/dist/leaflet.css"
           integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
           crossorigin=""/>
@@ -788,7 +788,7 @@ data-event-label="high"
 
     
       try {
-        var currentValue = normalizeCurrentValue('CONTACT_ORGANISATION', "MRDCHCS");
+        var currentValue = normalizeCurrentValue('CONTACT_ORGANISATION', "MCTP");
         var propertyEditor = editor.getEditor('root.CONTACT_ORGANISATION');
         propertyEditor.setValue(null);
         propertyEditor.setValue(currentValue);
@@ -852,6 +852,18 @@ data-event-label="high"
 
     propertyEditorAccessibilityFixes(editor.getEditor('root.RATIONALE'));
 
+    
+      try {
+        var currentValue = normalizeCurrentValue('REC_USE_LIM', "In 2015-2017, the Ministry of Regional Development did not provide for allocations for loans provided from the general fund of the state budget. The funds provided in the special fund of the state budget to increase the authorized capital of the State Specialized Financial Institution \"State Fund for Youth Housing\" were further used to provide loans under the State Program for Youth Housing for 2013-2020 (Resolution of the Cabinet of Ministers of 11.05. 2011 № 488).");
+        var propertyEditor = editor.getEditor('root.REC_USE_LIM');
+        propertyEditor.setValue(null);
+        propertyEditor.setValue(currentValue);
+        
+      }
+      catch (e) {
+        console.log(e.message);
+        console.log('Unable to set config key: REC_USE_LIM');
+      }
     propertyEditorAccessibilityFixes(editor.getEditor('root.REC_USE_LIM'));
 
     propertyEditorAccessibilityFixes(editor.getEditor('root.DATA_COMP'));
@@ -902,7 +914,7 @@ data-event-label="high"
 
     
       try {
-        var currentValue = normalizeCurrentValue('national_metadata_update_url', "https://github.com/ukraine-sdg/data/commit/2f09bde7e85cd17c551351b9c03180de962322b0");
+        var currentValue = normalizeCurrentValue('national_metadata_update_url', "https://github.com/ukraine-sdg/data/commit/bddc7b7ae196081ca318b58bfd84d3f277348394");
         var propertyEditor = editor.getEditor('root.national_metadata_update_url');
         propertyEditor.setValue(null);
         propertyEditor.setValue(currentValue);
@@ -916,7 +928,7 @@ data-event-label="high"
 
     
       try {
-        var currentValue = normalizeCurrentValue('national_metadata_update_url_text', "2021-10-31: see changes on GitHub");
+        var currentValue = normalizeCurrentValue('national_metadata_update_url_text', "2021-12-22: see changes on GitHub");
         var propertyEditor = editor.getEditor('root.national_metadata_update_url_text');
         propertyEditor.setValue(null);
         propertyEditor.setValue(currentValue);
@@ -1060,12 +1072,12 @@ data-event-label="high"
 <script>translations['search'] = translations['search'] || {};
     translations['search']['search'] = 'Пошук';</script>
 
-<script src='/site/assets/js/sdg.js?v=20211222120104'></script>
+<script src='/site/assets/js/sdg.js?v=20211222121032'></script>
 
 
     
     
-    <script src="/site/assets/js/custom.js?v=20211222120104"></script><script>
+    <script src="/site/assets/js/custom.js?v=20211222121032"></script><script>
 $(function() {
     if($('#indicatorData').length) {
       var domData = $('#indicatorData').data();
