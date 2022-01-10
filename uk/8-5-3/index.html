@@ -138,7 +138,7 @@ var translations = {
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" crossorigin="">
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" crossorigin="">
         <link rel="stylesheet" href="https://cdn.datatables.net/fixedcolumns/3.2.3/css/fixedColumns.dataTables.min.css" crossorigin="">
-        <link rel="stylesheet" href="/site/assets/css/style.css?v=20220110103736">
+        <link rel="stylesheet" href="/site/assets/css/style.css?v=20220110104321">
         <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.4/dist/leaflet.css"
           integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
           crossorigin=""/>
@@ -548,23 +548,23 @@ data-event-label="high"
   data-id="8-5-3"
   data-country="Ukraine"
   data-charttitle="Частка працівників, зайнятих на роботах зі шкідливими умовами праці, у загальнообліковій кількості штатних працівників, %"
-  data-charttitles="null"
+  data-charttitles="[]"
   data-measurementunit=""
   data-xaxislabel=""
   data-showdata="true"
   data-graphtype="line"
   data-geocoderegex=""
-  data-showmap=""
-  data-startvalues="null"
-  data-graphlimits="null"
+  data-showmap="false"
+  data-startvalues="[]"
+  data-graphlimits="[]"
   data-stackeddisaggregation=""
-  data-graphannotations="null"
-  data-graphtargetlines="null"
+  data-graphannotations="[]"
+  data-graphtargetlines="[{&quot;series&quot;:&quot;&quot;,&quot;unit&quot;:&quot;&quot;,&quot;label_content&quot;:&quot;Завдання 2030 року&quot;,&quot;value&quot;:22}]"
   data-graphseriesbreaks="null"
   data-indicatordownloads="null"
   data-dataschema="{&quot;fields&quot;:[{&quot;name&quot;:&quot;Year&quot;,&quot;type&quot;:&quot;integer&quot;,&quot;title&quot;:&quot;Рік&quot;},{&quot;name&quot;:&quot;Ec_activ&quot;,&quot;type&quot;:&quot;string&quot;,&quot;constraints&quot;:{&quot;enum&quot;:[&quot;Сільське господарство та надання пов’язаних із ним послуг&quot;,&quot;Промисловість&quot;,&quot;Добувна промисловість і розроблення кар’єрів&quot;,&quot;Переробна промисловість&quot;,&quot;Постачання електроенергії, газу, пари та кондиційованого повітря&quot;,&quot;Водопостачання; каналізація, поводження з відходами&quot;,&quot;Будівництво&quot;,&quot;Транспорт, складське господарство, поштова та кур’єрська діяльність&quot;,&quot;Телекомунікації (електрозв’язок)&quot;,&quot;&quot;]},&quot;title&quot;:&quot;Види економічної діяльності&quot;},{&quot;name&quot;:&quot;including&quot;,&quot;type&quot;:&quot;string&quot;,&quot;constraints&quot;:{&quot;enum&quot;:[&quot;добування кам’яного та бурого вугілля&quot;,&quot;виробництво харчових продуктів, напоїв та тютюнових виробів&quot;,&quot;текстильне виробництво, виробництво одягу, шкіри, виробів зі шкіри та інших матеріалів&quot;,&quot;виготовлення виробів з деревини, виробництво паперу та поліграфічна діяльність&quot;,&quot;виробництво коксу та продуктів нафтоперероблення&quot;,&quot;виробництво хімічних речовин і хімічної продукції&quot;,&quot;виробництво основних фармацевтичних продуктів і фармацевтичних препаратів&quot;,&quot;виробництво гумових і пластмасових виробів, іншої неметалевої мінеральної продукції&quot;,&quot;металургійне виробництво, виробництво готових металевих виробів, крім машин і устатковання&quot;,&quot;виробництво комп’ютерів, електронної та оптичної продукції&quot;,&quot;виробництво електричного устатковання&quot;,&quot;виробництво машин і устатковання, не віднесених до інших угруповань&quot;,&quot;виробництво автотранспортних засобів, причепів і напівпричепів та інших транспортних засобів&quot;,&quot;виробництво меблів, іншої продукції, ремонт і монтаж машин і устатковання&quot;,&quot;&quot;]},&quot;title&quot;:&quot;включаючи&quot;},{&quot;name&quot;:&quot;Value&quot;,&quot;type&quot;:&quot;number&quot;,&quot;title&quot;:&quot;Value&quot;}]}"
   data-compositebreakdownlabel=""
-  data-precision="null"
+  data-precision="[]"
 >
   
   <span role="status" class="sr-only" id="indicator-data-view-status"></span>
@@ -689,7 +689,13 @@ data-event-label="high"
   <div id="datatableFooter">
     
     
+    <p>Географічний район: </p>
     
+    
+    <p>Одиниця виміру: </p>
+    
+    
+    <p>Виноска: </p>
     
   </div>
 
@@ -1036,6 +1042,19 @@ opensdg.chartConfigAlter(function(config, info) {
 <div id="tableSelectionDownload" class="clearfix"></div>
 
   </div>
+  <div role="tabpanel" class="tab-pane" id="embeddedmapview" class="embedded-map">
+    <div class="row">
+  <div class="col-xs-12">
+    
+    
+    
+    <div class="embedded-map" id="embeddedmapframe">
+    
+  </div>
+</div>
+
+  </div>
+  
 </div>
 
 
@@ -1815,6 +1834,8 @@ data-event-label="Change to Sources tab"
 <script src="//cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.3/Chart.bundle.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/patternomaly@1.3.2/dist/patternomaly.js"></script>
 
+<script src="//cdnjs.cloudflare.com/ajax/libs/chartjs-plugin-annotation/0.5.7/chartjs-plugin-annotation.min.js" integrity="sha512-9hzM/Gfa9KP1hSBlq3/zyNF/dfbcjAYwUTBWYX+xi8fzfAPHL3ILwS1ci0CTVeuXTGkRAWgRMZZwtSNV7P+nfw==" crossorigin="anonymous"></script>
+
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/autotrack/2.4.1/autotrack.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/html2canvas@1.0.0-rc.3/dist/html2canvas.js"></script>
@@ -1832,12 +1853,12 @@ data-event-label="Change to Sources tab"
 <script>translations['search'] = translations['search'] || {};
     translations['search']['search'] = 'Пошук';</script>
 
-<script src='/site/assets/js/sdg.js?v=20220110103736'></script>
+<script src='/site/assets/js/sdg.js?v=20220110104321'></script>
 
 
     
     
-    <script src="/site/assets/js/custom.js?v=20220110103736"></script><script>
+    <script src="/site/assets/js/custom.js?v=20220110104321"></script><script>
 $(function() {
     if($('#indicatorData').length) {
       var domData = $('#indicatorData').data();
