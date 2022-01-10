@@ -138,7 +138,7 @@ var translations = {
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" crossorigin="">
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" crossorigin="">
         <link rel="stylesheet" href="https://cdn.datatables.net/fixedcolumns/3.2.3/css/fixedColumns.dataTables.min.css" crossorigin="">
-        <link rel="stylesheet" href="/site/assets/css/style.css?v=20220110112354">
+        <link rel="stylesheet" href="/site/assets/css/style.css?v=20220110113256">
         <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.4/dist/leaflet.css"
           integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
           crossorigin=""/>
@@ -548,23 +548,23 @@ data-event-label="high"
   data-id="9-5-2"
   data-country="Ukraine"
   data-charttitle="Share of sales of innovative products in total sales of industrial products, %"
-  data-charttitles="null"
+  data-charttitles="[]"
   data-measurementunit=""
   data-xaxislabel=""
   data-showdata="true"
   data-graphtype="line"
   data-geocoderegex=""
-  data-showmap=""
-  data-startvalues="null"
-  data-graphlimits="null"
+  data-showmap="false"
+  data-startvalues="[]"
+  data-graphlimits="[]"
   data-stackeddisaggregation=""
-  data-graphannotations="null"
-  data-graphtargetlines="null"
+  data-graphannotations="[]"
+  data-graphtargetlines="[{&quot;series&quot;:&quot;&quot;,&quot;unit&quot;:&quot;&quot;,&quot;label_content&quot;:&quot;2030 indicator target&quot;,&quot;value&quot;:5}]"
   data-graphseriesbreaks="null"
   data-indicatordownloads="null"
   data-dataschema="{&quot;fields&quot;:[{&quot;name&quot;:&quot;Ec_activ&quot;,&quot;type&quot;:&quot;string&quot;,&quot;constraints&quot;:{&quot;enum&quot;:[&quot;&quot;,&quot;mining and quarrying&quot;,&quot;extraction of hard coal and brown coal&quot;,&quot;extraction of crude oil and natural gas&quot;,&quot;extraction of metal ores&quot;,&quot;extraction of other minerals and quarrying&quot;,&quot;provision of ancillary services in the field of mining and quarrying&quot;,&quot;processing industry&quot;,&quot;manufacture of food products&quot;,&quot;manufacture of beverages&quot;,&quot;manufacture of tobacco products&quot;,&quot;textile manufacturing&quot;,&quot;manufacture of clothing&quot;,&quot;manufacture of leather, leather goods and other materials&quot;,&quot;manufacture of wood and of products of wood and cork. except furniture. manufacture of articles of straw and plaiting materials&quot;,&quot;manufacture of paper and paper products&quot;,&quot;printing, reproduction of recorded information&quot;,&quot;manufacture of coke and refined petroleum products&quot;,&quot;manufacture of chemicals and chemical products&quot;,&quot;manufacture of main pharmaceutical products and preparations&quot;,&quot;manufacture of rubber and plastic products&quot;,&quot;manufacture of other non-metallic mineral products&quot;,&quot;metallurgical manufacturing&quot;,&quot;manufacture of fabricated metal products, except machinery and equipment&quot;,&quot;manufacture of computers. electronic and optical products&quot;,&quot;manufacture of electrical equipment&quot;,&quot;manufacture of machinery and equipment, not elsewhere classified&quot;,&quot;manufacture of motor vehicles, trailers and semi-trailers&quot;,&quot;manufacture of other vehicles&quot;,&quot;manufacture of furniture&quot;,&quot;manufacture of other products&quot;,&quot;repair and installation of machinery and equipment&quot;,&quot;supply of electricity, gas, steam and air conditioning&quot;,&quot;water supply; sewage, waste management&quot;,&quot;water collection, treatment and supply&quot;,&quot;sewage, wastewater collection and treatment&quot;,&quot;collection, treatment and disposal of waste; restoration of materials&quot;,&quot;other waste management activities&quot;]},&quot;title&quot;:&quot;Еconomic activity&quot;},{&quot;name&quot;:&quot;Value&quot;,&quot;type&quot;:&quot;number&quot;,&quot;title&quot;:&quot;Value&quot;},{&quot;name&quot;:&quot;Year&quot;,&quot;type&quot;:&quot;integer&quot;,&quot;title&quot;:&quot;Year&quot;}]}"
   data-compositebreakdownlabel=""
-  data-precision="null"
+  data-precision="[]"
 >
   
   <span role="status" class="sr-only" id="indicator-data-view-status"></span>
@@ -689,7 +689,13 @@ data-event-label="high"
   <div id="datatableFooter">
     
     
+    <p>Geographical Area: </p>
     
+    
+    <p>Unit of Measurement: </p>
+    
+    
+    <p>Footnote: </p>
     
   </div>
 
@@ -1036,6 +1042,19 @@ opensdg.chartConfigAlter(function(config, info) {
 <div id="tableSelectionDownload" class="clearfix"></div>
 
   </div>
+  <div role="tabpanel" class="tab-pane" id="embeddedmapview" class="embedded-map">
+    <div class="row">
+  <div class="col-xs-12">
+    
+    
+    
+    <div class="embedded-map" id="embeddedmapframe">
+    
+  </div>
+</div>
+
+  </div>
+  
 </div>
 
 
@@ -1815,6 +1834,8 @@ data-event-label="Change to Sources tab"
 <script src="//cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.3/Chart.bundle.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/patternomaly@1.3.2/dist/patternomaly.js"></script>
 
+<script src="//cdnjs.cloudflare.com/ajax/libs/chartjs-plugin-annotation/0.5.7/chartjs-plugin-annotation.min.js" integrity="sha512-9hzM/Gfa9KP1hSBlq3/zyNF/dfbcjAYwUTBWYX+xi8fzfAPHL3ILwS1ci0CTVeuXTGkRAWgRMZZwtSNV7P+nfw==" crossorigin="anonymous"></script>
+
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/autotrack/2.4.1/autotrack.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/html2canvas@1.0.0-rc.3/dist/html2canvas.js"></script>
@@ -1832,12 +1853,12 @@ data-event-label="Change to Sources tab"
 <script>translations['search'] = translations['search'] || {};
     translations['search']['search'] = 'Search';</script>
 
-<script src='/site/assets/js/sdg.js?v=20220110112354'></script>
+<script src='/site/assets/js/sdg.js?v=20220110113256'></script>
 
 
     
     
-    <script src="/site/assets/js/custom.js?v=20220110112354"></script><script>
+    <script src="/site/assets/js/custom.js?v=20220110113256"></script><script>
 $(function() {
     if($('#indicatorData').length) {
       var domData = $('#indicatorData').data();
