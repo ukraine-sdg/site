@@ -133,7 +133,7 @@ var translations = {
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" crossorigin="">
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" crossorigin="">
         <link rel="stylesheet" href="https://cdn.datatables.net/fixedcolumns/3.2.3/css/fixedColumns.dataTables.min.css" crossorigin="">
-        <link rel="stylesheet" href="/site/assets/css/style.css?v=20220112134205">
+        <link rel="stylesheet" href="/site/assets/css/style.css?v=20220117130837">
         <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.4/dist/leaflet.css"
           integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
           crossorigin=""/>
@@ -854,7 +854,7 @@ data-event-label="high"
 
     
       try {
-        var currentValue = normalizeCurrentValue('REC_USE_LIM', "Data for 2016–2018 are lacking as the information requires additional research. 2020 — According to the State Statistics Service, the average salary in Ukraine in 2020 was 11 591 hryvnias. According to the Pension Fund of Ukraine, as of January 1, 2021, the average pension of recipients with 35 years of insurance or more and whose pension was granted in accordance with the Law of Ukraine “On Compulsory State Pension Insurance” was UAH 3 975.71.");
+        var currentValue = normalizeCurrentValue('REC_USE_LIM', "Data for 2016–2018 are lacking as the information requires additional research. <br> 2020 — According to the State Statistics Service, the average salary in Ukraine in 2020 was 11 591 hryvnias. <br> According to the Pension Fund of Ukraine, as of January 1, 2021, the average pension of recipients with 35 years of insurance or more and whose pension was granted in accordance with the Law of Ukraine “On Compulsory State Pension Insurance” was UAH 3 975.71.");
         var propertyEditor = editor.getEditor('root.REC_USE_LIM');
         propertyEditor.setValue(null);
         propertyEditor.setValue(currentValue);
@@ -914,7 +914,7 @@ data-event-label="high"
 
     
       try {
-        var currentValue = normalizeCurrentValue('national_metadata_update_url', "https://github.com/ukraine-sdg/data/commit/f8d51cd76fbedbfb5f03eb0fa0afa9f42e8baec5");
+        var currentValue = normalizeCurrentValue('national_metadata_update_url', "https://github.com/ukraine-sdg/data/commit/b88ba412e44fdc69287eb3d236f838c4b6ac2c64");
         var propertyEditor = editor.getEditor('root.national_metadata_update_url');
         propertyEditor.setValue(null);
         propertyEditor.setValue(currentValue);
@@ -928,7 +928,7 @@ data-event-label="high"
 
     
       try {
-        var currentValue = normalizeCurrentValue('national_metadata_update_url_text', "2021-12-22: see changes on GitHub");
+        var currentValue = normalizeCurrentValue('national_metadata_update_url_text', "2022-01-17: see changes on GitHub");
         var propertyEditor = editor.getEditor('root.national_metadata_update_url_text');
         propertyEditor.setValue(null);
         propertyEditor.setValue(currentValue);
@@ -1072,12 +1072,12 @@ data-event-label="high"
 <script>translations['search'] = translations['search'] || {};
     translations['search']['search'] = 'Search';</script>
 
-<script src='/site/assets/js/sdg.js?v=20220112134205'></script>
+<script src='/site/assets/js/sdg.js?v=20220117130837'></script>
 
 
     
     
-    <script src="/site/assets/js/custom.js?v=20220112134205"></script><script>
+    <script src="/site/assets/js/custom.js?v=20220117130837"></script><script>
 $(function() {
     if($('#indicatorData').length) {
       var domData = $('#indicatorData').data();
