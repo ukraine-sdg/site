@@ -1,5 +1,5 @@
 ---
-title: Frequently Asked Questions (FAQ)
+title: Запитання та відповіді
 permalink: /uk/faq/
 layout: page
 language: uk
