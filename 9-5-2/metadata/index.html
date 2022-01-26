@@ -133,7 +133,7 @@ var translations = {
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" crossorigin="">
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" crossorigin="">
         <link rel="stylesheet" href="https://cdn.datatables.net/fixedcolumns/3.2.3/css/fixedColumns.dataTables.min.css" crossorigin="">
-        <link rel="stylesheet" href="/site/assets/css/style.css?v=20220126081927">
+        <link rel="stylesheet" href="/site/assets/css/style.css?v=20220126084647">
         <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.4/dist/leaflet.css"
           integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
           crossorigin=""/>
@@ -854,7 +854,7 @@ data-event-label="high"
 
     
       try {
-        var currentValue = normalizeCurrentValue('REC_USE_LIM', "In 2016, indicators were not calculated.");
+        var currentValue = normalizeCurrentValue('REC_USE_LIM', "In 2016, indicators were not calculated. <br> 2017 – Extraction of hard coal and brown coal – confidential data. <br> 2020 – Extraction of crude oil and natural gas – confidential data. <br> 2020 – Extraction of metal ores – confidential data. <br> 2019, 2020 – Manufacture of tobacco products – confidential data. <br> 2020 – Manufacture of clothing – confidential data. <br> 2019, 2020 – Manufacture of leather, leather goods and other materials – confidential data. <br> 2020 – Printing, reproduction of recorded information – confidential data. <br> 2017-2020 – Manufacture of coke and refined petroleum products – confidential data. <br> 2018-2019 – Supply of electricity, gas, steam and air conditioning – confidential data. <br> 2018-2020 – Water supply; sewage, waste management – confidential data. <br> 2018, 2020 – Water collection, treatment and supply – confidential data. <br> 2018 – Sewage, wastewater collection and treatment – confidential data. <br> 2018 – Collection, treatment and disposal of waste; restoration of materials – confidential data. <br> Сonfidential data – The data are not published in order to ensure compliance with the requirements of the Law of Ukraine \"On State Statistics\" on the confidentiality of statistical information (primary and secondary blocking of vulnerable values).");
         var propertyEditor = editor.getEditor('root.REC_USE_LIM');
         propertyEditor.setValue(null);
         propertyEditor.setValue(currentValue);
@@ -914,7 +914,7 @@ data-event-label="high"
 
     
       try {
-        var currentValue = normalizeCurrentValue('national_metadata_update_url', "https://github.com/ukraine-sdg/data/commit/37121ece8b454024c352cb4e2ad7b7c2a62444bf");
+        var currentValue = normalizeCurrentValue('national_metadata_update_url', "https://github.com/ukraine-sdg/data/commit/4031fcb25e98823681be510ba8ed5088875c081a");
         var propertyEditor = editor.getEditor('root.national_metadata_update_url');
         propertyEditor.setValue(null);
         propertyEditor.setValue(currentValue);
@@ -928,7 +928,7 @@ data-event-label="high"
 
     
       try {
-        var currentValue = normalizeCurrentValue('national_metadata_update_url_text', "2022-01-17: see changes on GitHub");
+        var currentValue = normalizeCurrentValue('national_metadata_update_url_text', "2022-01-26: see changes on GitHub");
         var propertyEditor = editor.getEditor('root.national_metadata_update_url_text');
         propertyEditor.setValue(null);
         propertyEditor.setValue(currentValue);
@@ -1072,12 +1072,12 @@ data-event-label="high"
 <script>translations['search'] = translations['search'] || {};
     translations['search']['search'] = 'Search';</script>
 
-<script src='/site/assets/js/sdg.js?v=20220126081927'></script>
+<script src='/site/assets/js/sdg.js?v=20220126084647'></script>
 
 
     
     
-    <script src="/site/assets/js/custom.js?v=20220126081927"></script><script>
+    <script src="/site/assets/js/custom.js?v=20220126084647"></script><script>
 $(function() {
     if($('#indicatorData').length) {
       var domData = $('#indicatorData').data();
