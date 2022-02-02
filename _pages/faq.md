@@ -16,7 +16,7 @@ layout: page
 
 - [Can other countries copy this website?](#can-other-countries-copy-this-website)
 
-- [How accessible is this website?](#how-accessible-is-this-website)
+- [What disaggregations are available?](#what-disaggregations-are-available)
 
 - [What browsers can I use to check out this website?](#what-browsers-can-i-use-to-check-out-this-website)
 
@@ -48,7 +48,7 @@ We have used three different types of reporting status for an indicator, which a
 ## Can other countries copy this website?
 Yes. See the [Open SDG Quick Start guide](https://open-sdg.readthedocs.io/en/latest/quick-start/) for technical instructions on the quickest way to get a copy of the Open SDG platform up and running.
 
-## How accessible is this website?
+## What disaggregations are available?
 Open SDG aims to be as accessible and usable as possible for every user and works towards meeting AA level of [Web Content Accessibility Guidelines (WCAG 2.0)](https://www.gov.uk/service-manual/helping-people-to-use-your-service/understanding-wcag-20).
 
 ## What browsers can I use to check out this website?
