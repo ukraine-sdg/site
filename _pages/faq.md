@@ -46,7 +46,7 @@ We have used three different types of reporting status for an indicator, which a
 
 
 ## According to which the SDG indicators are data on platform given?
-Yes. See the [Open SDG Quick Start guide](https://open-sdg.readthedocs.io/en/latest/quick-start/) for technical instructions on the quickest way to get a copy of the Open SDG platform up and running.
+The SDG indicators used to collect data to monitor the implementation of sustainable development goals are approved by order No 686-p "Issue related to data collection to monitor the implementation of sustainable development goals" of the Cabinet of Ministers of Ukraine of August 21, 2019. Also, this order specifies the data owners responsible for their provision to the SSSU, disaggregation and dates of information transmission to the SSSU.
 
 ## What disaggregations are available?
 The disaggregation of indicators is presented in order No 686-p "Issue related to data collection to monitor the implementation of sustainable development goals" of the Cabinet of Ministers of Ukraine of August 21, 2019. In order to find out more about all data breakdowns and methodology, please have a look at metadata on the SSSU official web site:  Sustainable development goals/ Information support to the SDGs monitoring, meta data [http://ukrstat.gov.ua/csr_prezent/ukr/st_rozv/metadata/metadata.htm](http://ukrstat.gov.ua/csr_prezent/ukr/st_rozv/metadata/metadata.htm).
