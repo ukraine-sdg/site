@@ -8,10 +8,6 @@ layout: page
 ## Table of contents
 - [How often will the new data be added to this site?](#how-often-will-the-new-data-be-added-to-this-site)
 
-- [How do I suggest new or different data sources?](#how-do-i-suggest-new-or-different-data-sources)
-
-- [What are you doing to fill data gaps?](#what-are-you-doing-to-fill-data-gaps)
-
 - [Why are the SDGs important?](#why-are-the-sdgs-important)
 
 - [According to which the SDG indicators are data on platform given?](#according-to-which-the-sdg-indicators-are-data-on-platform-given)
@@ -24,14 +20,6 @@ layout: page
 
 ## How often will the new data be added to this site?
 We will add data as soon as they are received according to the dates specified by order No 686-p "issue related to data collection to monitor the implementation of sustainable development goals" of the Cabinet of Ministers of Ukraine of August 21, 2019, are validated.
-
-## How do I suggest new or different data sources?
-If you have feedback on the data sources we have used or have suggestions for new data sources then please email us at <a href="mailto:{{site.email_contacts.questions}}">{{site.email_contacts.questions}}</a>.
-
-## What are you doing to fill data gaps?
-For some indicators, although we may have data at the national level, our existing data sources don’t always allow us to disaggregate by all main groups.
-
-This means we need to look for new data sources, link existing ones, or model data.
 
 ## Why are the SDGs important?
 The SDGs are aimed at achieving the common response to the issues faced by the world and which are impossible to resolve only using the efforts of selected groups or countries. Particularly, these are poverty, inequality, climate change crises and violence. The participation and solidarity among all the countries and groups of stakeholders are extremely important.
