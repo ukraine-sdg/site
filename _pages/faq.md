@@ -20,7 +20,7 @@ layout: page
 
 - [What browsers can I use to check out this website?](#what-browsers-can-i-use-to-check-out-this-website)
 
-- [What do each of the three tiers mean?](#what-do-each-of-the-three-tiers-mean)
+- [Can other countries copy data from this site?](#can-other-countries-copy-data-from-this-site)
 
 ## How often will the new data be added to this site?
 We will add data as soon as they are received according to the dates specified by order No 686-p "issue related to data collection to monitor the implementation of sustainable development goals" of the Cabinet of Ministers of Ukraine of August 21, 2019, are validated.
@@ -54,16 +54,7 @@ Open SDG aims to be as accessible and usable as possible for every user and work
 ## What browsers can I use to check out this website?
 Our web site works with the most commonly used latest browsers versions. There could be some problems when using the site with old browsers versions.  
 
-## What do each of the three tiers mean?
-Each of the SDG indicators are assigned to one (or more) of the following tiers:
- - **Tier 1:** Indicator is conceptually clear, has an internationally established methodology and standards are available, and data are regularly produced by countries for at least 50 per cent of countries and of the population in every region where the indicator is relevant.
-
- - **Tier 2:** Indicator is conceptually clear, has an internationally established methodology and standards are available, but data are not regularly produced by countries.
-
- - **Tier 3:** No internationally established methodology or standards are yet available for the indicator, but methodology/standards are being (or will be) developed or tested (As of the 51st session of the UN Statistical Commission, the global indicator framework does not contain any Tier III indicators)
-
-**As of 28 December 2020:** The updated tier classification contains **130 Tier I indicators**, **97 Tier II indicators** and **4 indicators that have multiple tiers** (different components of the indicator are classified into different tiers).
-
-For more information, [see the IAEG-SDGs Tier Classification for Global SDG Indicators](https://unstats.un.org/sdgs/iaeg-sdgs/tier-classification/)
+## Can other countries copy data from this site?
+Yes, one can copy data from the site both by every selected indicator and all the data available on the platform. 
 
 [Back to top](#top)
