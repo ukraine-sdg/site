@@ -6,11 +6,12 @@ layout: page
 ---
 
 ## Table of contents
-- [How often will the new data be added to this site?](#how-often-will-the-new-data-be-added-to-this-site)
 
 - [Why are the SDGs important?](#why-are-the-sdgs-important)
 
 - [According to which the SDG indicators are data on platform given?](#according-to-which-the-sdg-indicators-are-data-on-platform-given)
+
+- [How often will the new data be added to this site?](#how-often-will-the-new-data-be-added-to-this-site)
 
 - [What disaggregations are available?](#what-disaggregations-are-available)
 
@@ -18,14 +19,14 @@ layout: page
 
 - [Can other countries copy data from this site?](#can-other-countries-copy-data-from-this-site)
 
-## How often will the new data be added to this site?
-We will add data as soon as they are received according to the dates specified by order No 686-p "issue related to data collection to monitor the implementation of sustainable development goals" of the Cabinet of Ministers of Ukraine of August 21, 2019, are validated.
-
 ## Why are the SDGs important?
 The SDGs are aimed at achieving the common response to the issues faced by the world and which are impossible to resolve only using the efforts of selected groups or countries. Particularly, these are poverty, inequality, climate change crises and violence. The participation and solidarity among all the countries and groups of stakeholders are extremely important.
 
 ## According to which the SDG indicators are data on platform given?
 The SDG indicators used to collect data to monitor the implementation of sustainable development goals are approved by order No 686-p "Issue related to data collection to monitor the implementation of sustainable development goals" of the Cabinet of Ministers of Ukraine of August 21, 2019. Also, this order specifies the data owners responsible for their provision to the SSSU, disaggregation and dates of information transmission to the SSSU.
+
+## How often will the new data be added to this site?
+We will add data as soon as they are received according to the dates specified by order No 686-p "issue related to data collection to monitor the implementation of sustainable development goals" of the Cabinet of Ministers of Ukraine of August 21, 2019, are validated.
 
 ## What disaggregations are available?
 The disaggregation of indicators is presented in order No 686-p "Issue related to data collection to monitor the implementation of sustainable development goals" of the Cabinet of Ministers of Ukraine of August 21, 2019. In order to find out more about all data breakdowns and methodology, please have a look at metadata on the SSSU official web site:  Sustainable development goals/ Information support to the SDGs monitoring, meta data [http://ukrstat.gov.ua/csr_prezent/ukr/st_rozv/metadata/metadata.htm](http://ukrstat.gov.ua/csr_prezent/ukr/st_rozv/metadata/metadata.htm).
