@@ -12,7 +12,7 @@ layout: page
 
 - [What are you doing to fill data gaps?](#what-are-you-doing-to-fill-data-gaps)
 
-- [What does the reporting status mean?](#what-does-the-reporting-status-mean)
+- [Why are the SDGs important?](#why-are-the-sdgs-important)
 
 - [According to which the SDG indicators are data on platform given?](#according-to-which-the-sdg-indicators-are-data-on-platform-given)
 
@@ -33,17 +33,8 @@ For some indicators, although we may have data at the national level, our existi
 
 This means we need to look for new data sources, link existing ones, or model data.
 
-## What does the reporting status mean?
-We have used three different types of reporting status for an indicator, which are also colour coded:
-
-- **Reported (black):** As a minimum the headline national data for this indicator is available on this website but the data might not be fully disaggregated yet. We are continuing to source additional disaggregations.
-
-- **Statistics in progress (grey):** We have found a suitable source of data for this indicator or relevant proxy at national level. We are currently quality assuring the data and preparing it for publication.
-
-- **Exploring data sources (white):** We are still looking for a suitable data source for this indicator.
-
-- **Not applicable (striped):** This indicator is not applicable in the national context.
-
+## Why are the SDGs important?
+The SDGs are aimed at achieving the common response to the issues faced by the world and which are impossible to resolve only using the efforts of selected groups or countries. Particularly, these are poverty, inequality, climate change crises and violence. The participation and solidarity among all the countries and groups of stakeholders are extremely important.
 
 ## According to which the SDG indicators are data on platform given?
 The SDG indicators used to collect data to monitor the implementation of sustainable development goals are approved by order No 686-p "Issue related to data collection to monitor the implementation of sustainable development goals" of the Cabinet of Ministers of Ukraine of August 21, 2019. Also, this order specifies the data owners responsible for their provision to the SSSU, disaggregation and dates of information transmission to the SSSU.
