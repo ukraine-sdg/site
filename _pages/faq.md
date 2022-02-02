@@ -49,7 +49,7 @@ We have used three different types of reporting status for an indicator, which a
 Yes. See the [Open SDG Quick Start guide](https://open-sdg.readthedocs.io/en/latest/quick-start/) for technical instructions on the quickest way to get a copy of the Open SDG platform up and running.
 
 ## What disaggregations are available?
-Open SDG aims to be as accessible and usable as possible for every user and works towards meeting AA level of [Web Content Accessibility Guidelines (WCAG 2.0)](https://www.gov.uk/service-manual/helping-people-to-use-your-service/understanding-wcag-20).
+The disaggregation of indicators is presented in order No 686-p "Issue related to data collection to monitor the implementation of sustainable development goals" of the Cabinet of Ministers of Ukraine of August 21, 2019. In order to find out more about all data breakdowns and methodology, please have a look at metadata on the SSSU official web site:  Sustainable development goals/ Information support to the SDGs monitoring, meta data [http://ukrstat.gov.ua/csr_prezent/ukr/st_rozv/metadata/metadata.htm](http://ukrstat.gov.ua/csr_prezent/ukr/st_rozv/metadata/metadata.htm).
 
 ## What browsers can I use to check out this website?
 Our web site works with the most commonly used latest browsers versions. There could be some problems when using the site with old browsers versions.  
