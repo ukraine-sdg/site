@@ -14,7 +14,7 @@ layout: page
 
 - [What does the reporting status mean?](#what-does-the-reporting-status-mean)
 
-- [Can other countries copy this website?](#can-other-countries-copy-this-website)
+- [According to which the SDG indicators are data on platform given?](#according-to-which-the-sdg-indicators-are-data-on-platform-given)
 
 - [What disaggregations are available?](#what-disaggregations-are-available)
 
@@ -45,7 +45,7 @@ We have used three different types of reporting status for an indicator, which a
 - **Not applicable (striped):** This indicator is not applicable in the national context.
 
 
-## Can other countries copy this website?
+## According to which the SDG indicators are data on platform given?
 Yes. See the [Open SDG Quick Start guide](https://open-sdg.readthedocs.io/en/latest/quick-start/) for technical instructions on the quickest way to get a copy of the Open SDG platform up and running.
 
 ## What disaggregations are available?
