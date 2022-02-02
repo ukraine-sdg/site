@@ -6,7 +6,7 @@ layout: page
 ---
 
 ## Table of contents
-- [How often will new data be added to this site?](#how-often-will-new-data-be-added-to-this-site)
+- [How often will the new data be added to this site?](#how-often-will-the-new-data-be-added-to-this-site)
 
 - [How do I suggest new or different data sources?](#how-do-i-suggest-new-or-different-data-sources)
 
@@ -22,7 +22,7 @@ layout: page
 
 - [What do each of the three tiers mean?](#what-do-each-of-the-three-tiers-mean)
 
-## How often will new data be added to this site?
+## How often will the new data be added to this site?
 We will add data as soon as they are received according to the dates specified by order No 686-p "issue related to data collection to monitor the implementation of sustainable development goals" of the Cabinet of Ministers of Ukraine of August 21, 2019, are validated.
 
 ## How do I suggest new or different data sources?
