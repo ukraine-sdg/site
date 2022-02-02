@@ -18,7 +18,7 @@ layout: page
 
 - [How accessible is this website?](#how-accessible-is-this-website)
 
-- [What browsers can I use to view this website?](#what-browsers-can-i-use-to-view-this-website)
+- [What browsers can I use to check out this website?](#what-browsers-can-i-use-to-check-out-this-website)
 
 - [What do each of the three tiers mean?](#what-do-each-of-the-three-tiers-mean)
 
@@ -51,8 +51,8 @@ Yes. See the [Open SDG Quick Start guide](https://open-sdg.readthedocs.io/en/lat
 ## How accessible is this website?
 Open SDG aims to be as accessible and usable as possible for every user and works towards meeting AA level of [Web Content Accessibility Guidelines (WCAG 2.0)](https://www.gov.uk/service-manual/helping-people-to-use-your-service/understanding-wcag-20).
 
-## What browsers can I use to view this website?
-Our website works with most of the latest versions of the commonly used browsers.
+## What browsers can I use to check out this website?
+Our web site works with the most commonly used latest browsers versions. There could be some problems when using the site with old browsers versions.  
 
 ## What do each of the three tiers mean?
 Each of the SDG indicators are assigned to one (or more) of the following tiers:
