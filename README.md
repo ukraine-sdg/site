@@ -11,7 +11,3 @@ This is a starter repository to help in implementing the [Open SDG](https://gith
 
 
 
-
-
-
-
