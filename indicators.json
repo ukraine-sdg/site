@@ -151,7 +151,7 @@
         
         {
           "id": "3-1-1",
-          "title": "Number of cases of maternal mortality, per 100000 live births",
+          "title": "Number of cases of maternal mortality, per 100,000 live births",
           "description": "",
           "keywords": "",
           "href": "/site/3-1-1",
@@ -159,7 +159,7 @@
         },
         {
           "id": "3-2-1",
-          "title": "Mortality of children under 5, cases per 1000 live births",
+          "title": "Mortality of children under 5, cases per 1,000 live births",
           "description": "",
           "keywords": "",
           "href": "/site/3-2-1",
@@ -167,7 +167,7 @@
         },
         {
           "id": "3-3-1",
-          "title": "Number of patients diagnosted with HIV for the first time, per 100000 persons",
+          "title": "Number of patients diagnosted with HIV for the first time, per 100,000 persons",
           "description": "",
           "keywords": "",
           "href": "/site/3-3-1",
@@ -175,7 +175,7 @@
         },
         {
           "id": "3-3-2",
-          "title": "Number of patients diagnosted with active tuberculosis for the first time, per 100000 persons",
+          "title": "Number of patients diagnosted with active tuberculosis for the first time, per 100,000 persons",
           "description": "",
           "keywords": "",
           "href": "/site/3-3-2",
@@ -231,7 +231,7 @@
         },
         {
           "id": "3-6-1",
-          "title": "Number of deaths from road traffic accidents, per 100000 persons",
+          "title": "Number of deaths from road traffic accidents, per 100,000 persons",
           "description": "",
           "keywords": "",
           "href": "/site/3-6-1",
@@ -239,7 +239,7 @@
         },
         {
           "id": "3-6-2",
-          "title": "Number of persons injured in road accidents, per 100000 persons",
+          "title": "Number of persons injured in road accidents, per 100,000 persons",
           "description": "",
           "keywords": "",
           "href": "/site/3-6-2",
@@ -543,7 +543,7 @@
         },
         {
           "id": "5-5-1",
-          "title": "Birth rate under the age of 20, per 1000 women aged 15-19",
+          "title": "Birth rate under the age of 20, per 1,000 women aged 15-19",
           "description": "",
           "keywords": "",
           "href": "/site/5-5-1",
@@ -1375,7 +1375,7 @@
         },
         {
           "id": "16-1-2",
-          "title": "Number of victims of crimes related to physical violence (intentional homicide (and relevant attempts), rape (and relevant attempts), grievous bodily harm), reported over the past 12 months, per 100 000 persons",
+          "title": "Number of victims of crimes related to physical violence (intentional homicide (and relevant attempts), rape (and relevant attempts), grievous bodily harm), reported over the past 12 months, per 100,000 persons",
           "description": "",
           "keywords": "",
           "href": "/site/16-1-2",
