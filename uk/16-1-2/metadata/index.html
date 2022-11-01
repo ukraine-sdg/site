@@ -133,7 +133,7 @@ var translations = {
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" crossorigin="">
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" crossorigin="">
         <link rel="stylesheet" href="https://cdn.datatables.net/fixedcolumns/3.2.3/css/fixedColumns.dataTables.min.css" crossorigin="">
-        <link rel="stylesheet" href="/site/assets/css/style.css?v=20221101143441">
+        <link rel="stylesheet" href="/site/assets/css/style.css?v=20221101203652">
         <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.4/dist/leaflet.css"
           integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
           crossorigin=""/>
@@ -766,7 +766,7 @@ data-event-label="high"
 
     
       try {
-        var currentValue = normalizeCurrentValue('SDG_INDICATOR', "16.1.2 Number of victims of crimes related to physical violence /intentional homicide and relevant attempts, rape and relevant attempts, grievous bodily harm/, reported over the past 12 months, per 100 000 persons");
+        var currentValue = normalizeCurrentValue('SDG_INDICATOR', "16.1.2 Number of victims of crimes related to physical violence (intentional homicide (and relevant attempts), rape (and relevant attempts), grievous bodily harm), reported over the past 12 months, per 100,000 persons");
         var propertyEditor = editor.getEditor('root.SDG_INDICATOR');
         propertyEditor.setValue(null);
         propertyEditor.setValue(currentValue);
@@ -788,7 +788,7 @@ data-event-label="high"
 
     
       try {
-        var currentValue = normalizeCurrentValue('CONTACT_ORGANISATION', "PGO");
+        var currentValue = normalizeCurrentValue('CONTACT_ORGANISATION', "The Prosecutor General’s Office");
         var propertyEditor = editor.getEditor('root.CONTACT_ORGANISATION');
         propertyEditor.setValue(null);
         propertyEditor.setValue(currentValue);
@@ -818,7 +818,7 @@ data-event-label="high"
 
     
       try {
-        var currentValue = normalizeCurrentValue('UNIT_MEASURE', "victims of crimes per 100,000 persons, persons");
+        var currentValue = normalizeCurrentValue('UNIT_MEASURE', "victims per 100,000 persons, persons");
         var propertyEditor = editor.getEditor('root.UNIT_MEASURE');
         propertyEditor.setValue(null);
         propertyEditor.setValue(currentValue);
@@ -874,7 +874,7 @@ data-event-label="high"
 
     
       try {
-        var currentValue = normalizeCurrentValue('national_data_update_url', "https://github.com/ukraine-sdg/data/commit/3953cea26c299a4bb8f794c4dc07679884eb4750");
+        var currentValue = normalizeCurrentValue('national_data_update_url', "https://github.com/ukraine-sdg/data/commit/b012a7ea83f2d77c9e6eb5daed66edcf2ab9feb2");
         var propertyEditor = editor.getEditor('root.national_data_update_url');
         propertyEditor.setValue(null);
         propertyEditor.setValue(currentValue);
@@ -888,7 +888,7 @@ data-event-label="high"
 
     
       try {
-        var currentValue = normalizeCurrentValue('national_data_update_url_text', "2022-06-02: see changes on GitHub");
+        var currentValue = normalizeCurrentValue('national_data_update_url_text', "2022-11-01: see changes on GitHub");
         var propertyEditor = editor.getEditor('root.national_data_update_url_text');
         propertyEditor.setValue(null);
         propertyEditor.setValue(currentValue);
@@ -902,7 +902,7 @@ data-event-label="high"
 
     
       try {
-        var currentValue = normalizeCurrentValue('national_metadata_update_url', "https://github.com/ukraine-sdg/data/commit/84e76c0234e90ae857efa4cf91721fff24b55304");
+        var currentValue = normalizeCurrentValue('national_metadata_update_url', "https://github.com/ukraine-sdg/data/commit/2bf6ca04149919e9a648acbd2aac3ecfba4f6e4f");
         var propertyEditor = editor.getEditor('root.national_metadata_update_url');
         propertyEditor.setValue(null);
         propertyEditor.setValue(currentValue);
@@ -916,7 +916,7 @@ data-event-label="high"
 
     
       try {
-        var currentValue = normalizeCurrentValue('national_metadata_update_url_text', "2022-10-04: see changes on GitHub");
+        var currentValue = normalizeCurrentValue('national_metadata_update_url_text', "2022-11-01: see changes on GitHub");
         var propertyEditor = editor.getEditor('root.national_metadata_update_url_text');
         propertyEditor.setValue(null);
         propertyEditor.setValue(currentValue);
@@ -1060,12 +1060,12 @@ data-event-label="high"
 <script>translations['search'] = translations['search'] || {};
     translations['search']['search'] = 'Пошук';</script>
 
-<script src='/site/assets/js/sdg.js?v=20221101143441'></script>
+<script src='/site/assets/js/sdg.js?v=20221101203652'></script>
 
 
     
     
-    <script src="/site/assets/js/custom.js?v=20221101143441"></script><script>
+    <script src="/site/assets/js/custom.js?v=20221101203652"></script><script>
 $(function() {
     if($('#indicatorData').length) {
       var domData = $('#indicatorData').data();
