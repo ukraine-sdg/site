@@ -133,7 +133,7 @@ var translations = {
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" crossorigin="">
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" crossorigin="">
         <link rel="stylesheet" href="https://cdn.datatables.net/fixedcolumns/3.2.3/css/fixedColumns.dataTables.min.css" crossorigin="">
-        <link rel="stylesheet" href="/site/assets/css/style.css?v=20221214190413">
+        <link rel="stylesheet" href="/site/assets/css/style.css?v=20221214191433">
         <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.4/dist/leaflet.css"
           integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
           crossorigin=""/>
@@ -788,7 +788,7 @@ data-event-label="high"
 
     
       try {
-        var currentValue = normalizeCurrentValue('CONTACT_ORGANISATION', "NACS");
+        var currentValue = normalizeCurrentValue('CONTACT_ORGANISATION', "National Agency of Ukraine for Civil Service (NACS)");
         var propertyEditor = editor.getEditor('root.CONTACT_ORGANISATION');
         propertyEditor.setValue(null);
         propertyEditor.setValue(currentValue);
@@ -854,7 +854,7 @@ data-event-label="high"
 
     
       try {
-        var currentValue = normalizeCurrentValue('REC_USE_LIM', "There is no information on the number of female civil servants in 2015, 2016, 2017, 2018, 2019 in the NAPS. <br> For reference - the data are given without taking into account the temporarily occupied territory of the Autonomous Republic of Crimea and the city of Sevastopol, part of the territory of the joint forces operation, as well as without taking into account the positions of civil servants whose information is a state secret.");
+        var currentValue = normalizeCurrentValue('REC_USE_LIM', "2015-2019 — There is no information on the number of female civil servants in 2015-2019 in the NACS.");
         var propertyEditor = editor.getEditor('root.REC_USE_LIM');
         propertyEditor.setValue(null);
         propertyEditor.setValue(currentValue);
@@ -914,7 +914,7 @@ data-event-label="high"
 
     
       try {
-        var currentValue = normalizeCurrentValue('national_metadata_update_url', "https://github.com/ukraine-sdg/data/commit/199d738644e6bc0d431f478c9b6b6a42ba3312dd");
+        var currentValue = normalizeCurrentValue('national_metadata_update_url', "https://github.com/ukraine-sdg/data/commit/bb63aaae97a53d4c6448b0a19082a0937a8e7712");
         var propertyEditor = editor.getEditor('root.national_metadata_update_url');
         propertyEditor.setValue(null);
         propertyEditor.setValue(currentValue);
@@ -928,7 +928,7 @@ data-event-label="high"
 
     
       try {
-        var currentValue = normalizeCurrentValue('national_metadata_update_url_text', "2022-12-09: see changes on GitHub");
+        var currentValue = normalizeCurrentValue('national_metadata_update_url_text', "2022-12-14: see changes on GitHub");
         var propertyEditor = editor.getEditor('root.national_metadata_update_url_text');
         propertyEditor.setValue(null);
         propertyEditor.setValue(currentValue);
@@ -1072,12 +1072,12 @@ data-event-label="high"
 <script>translations['search'] = translations['search'] || {};
     translations['search']['search'] = 'Search';</script>
 
-<script src='/site/assets/js/sdg.js?v=20221214190413'></script>
+<script src='/site/assets/js/sdg.js?v=20221214191433'></script>
 
 
     
     
-    <script src="/site/assets/js/custom.js?v=20221214190413"></script><script>
+    <script src="/site/assets/js/custom.js?v=20221214191433"></script><script>
 $(function() {
     if($('#indicatorData').length) {
       var domData = $('#indicatorData').data();
