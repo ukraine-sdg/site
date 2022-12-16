@@ -133,7 +133,7 @@ var translations = {
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" crossorigin="">
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" crossorigin="">
         <link rel="stylesheet" href="https://cdn.datatables.net/fixedcolumns/3.2.3/css/fixedColumns.dataTables.min.css" crossorigin="">
-        <link rel="stylesheet" href="/site/assets/css/style.css?v=20221216153526">
+        <link rel="stylesheet" href="/site/assets/css/style.css?v=20221216155456">
         <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.4/dist/leaflet.css"
           integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
           crossorigin=""/>
@@ -752,7 +752,7 @@ data-event-label="high"
 
     
       try {
-        var currentValue = normalizeCurrentValue('SDG_TARGET', "9.1 Develop quality, reliable, sustainable and accessible infrastructure based on the use of innovation technologies, including ecologically clean means of transport");
+        var currentValue = normalizeCurrentValue('SDG_TARGET', "9.2 Ensure increased use of electric transport and related network infrastructure");
         var propertyEditor = editor.getEditor('root.SDG_TARGET');
         propertyEditor.setValue(null);
         propertyEditor.setValue(currentValue);
@@ -766,7 +766,7 @@ data-event-label="high"
 
     
       try {
-        var currentValue = normalizeCurrentValue('SDG_INDICATOR', "9.1.2 Volume of transported goods, millions of tonnes");
+        var currentValue = normalizeCurrentValue('SDG_INDICATOR', "9.2.1 Share of electric transport in domestic traffic, %");
         var propertyEditor = editor.getEditor('root.SDG_INDICATOR');
         propertyEditor.setValue(null);
         propertyEditor.setValue(currentValue);
@@ -818,7 +818,7 @@ data-event-label="high"
 
     
       try {
-        var currentValue = normalizeCurrentValue('UNIT_MEASURE', "millions of tonnes");
+        var currentValue = normalizeCurrentValue('UNIT_MEASURE', "Percentage (%)");
         var propertyEditor = editor.getEditor('root.UNIT_MEASURE');
         propertyEditor.setValue(null);
         propertyEditor.setValue(currentValue);
@@ -852,18 +852,6 @@ data-event-label="high"
 
     propertyEditorAccessibilityFixes(editor.getEditor('root.RATIONALE'));
 
-    
-      try {
-        var currentValue = normalizeCurrentValue('REC_USE_LIM', "2021 — The disclosure of information вy Ukraine as the whole and motor transport will be resumed after the completion of the deadline for submission of statistical and financial reports established by the Law of Ukraine \"On Protection of Interests of Subjects of Reporting and Other Documents during Martial Law or War\".");
-        var propertyEditor = editor.getEditor('root.REC_USE_LIM');
-        propertyEditor.setValue(null);
-        propertyEditor.setValue(currentValue);
-        
-      }
-      catch (e) {
-        console.log(e.message);
-        console.log('Unable to set config key: REC_USE_LIM');
-      }
     propertyEditorAccessibilityFixes(editor.getEditor('root.REC_USE_LIM'));
 
     propertyEditorAccessibilityFixes(editor.getEditor('root.DATA_COMP'));
@@ -914,7 +902,7 @@ data-event-label="high"
 
     
       try {
-        var currentValue = normalizeCurrentValue('national_metadata_update_url', "https://github.com/ukraine-sdg/data/commit/850d689ab08bca6a2a9512ccd20064d88d1ad674");
+        var currentValue = normalizeCurrentValue('national_metadata_update_url', "https://github.com/ukraine-sdg/data/commit/636a91d7ebf3f4f50be440d2cb25fd5fb5f00447");
         var propertyEditor = editor.getEditor('root.national_metadata_update_url');
         propertyEditor.setValue(null);
         propertyEditor.setValue(currentValue);
@@ -928,7 +916,7 @@ data-event-label="high"
 
     
       try {
-        var currentValue = normalizeCurrentValue('national_metadata_update_url_text', "2022-12-15: see changes on GitHub");
+        var currentValue = normalizeCurrentValue('national_metadata_update_url_text', "2022-12-16: see changes on GitHub");
         var propertyEditor = editor.getEditor('root.national_metadata_update_url_text');
         propertyEditor.setValue(null);
         propertyEditor.setValue(currentValue);
@@ -1072,12 +1060,12 @@ data-event-label="high"
 <script>translations['search'] = translations['search'] || {};
     translations['search']['search'] = 'Search';</script>
 
-<script src='/site/assets/js/sdg.js?v=20221216153526'></script>
+<script src='/site/assets/js/sdg.js?v=20221216155456'></script>
 
 
     
     
-    <script src="/site/assets/js/custom.js?v=20221216153526"></script><script>
+    <script src="/site/assets/js/custom.js?v=20221216155456"></script><script>
 $(function() {
     if($('#indicatorData').length) {
       var domData = $('#indicatorData').data();
