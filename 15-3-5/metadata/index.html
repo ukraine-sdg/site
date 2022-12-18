@@ -133,7 +133,7 @@ var translations = {
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" crossorigin="">
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" crossorigin="">
         <link rel="stylesheet" href="https://cdn.datatables.net/fixedcolumns/3.2.3/css/fixedColumns.dataTables.min.css" crossorigin="">
-        <link rel="stylesheet" href="/site/assets/css/style.css?v=20221218191809">
+        <link rel="stylesheet" href="/site/assets/css/style.css?v=20221218193447">
         <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.4/dist/leaflet.css"
           integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
           crossorigin=""/>
@@ -766,7 +766,7 @@ data-event-label="high"
 
     
       try {
-        var currentValue = normalizeCurrentValue('SDG_INDICATOR', "15.3.5 Area of agricultural land of extensive use /hayfields, pastures/, thousands of hectares");
+        var currentValue = normalizeCurrentValue('SDG_INDICATOR', "15.3.5 Area of agricultural land of extensive use (hayfields, pastures), thousands of hectares");
         var propertyEditor = editor.getEditor('root.SDG_INDICATOR');
         propertyEditor.setValue(null);
         propertyEditor.setValue(currentValue);
@@ -788,7 +788,7 @@ data-event-label="high"
 
     
       try {
-        var currentValue = normalizeCurrentValue('CONTACT_ORGANISATION', "SSGCC");
+        var currentValue = normalizeCurrentValue('CONTACT_ORGANISATION', "State Service of Ukraine for Geodesy, Cartography and Cadastre (SSGCC)");
         var propertyEditor = editor.getEditor('root.CONTACT_ORGANISATION');
         propertyEditor.setValue(null);
         propertyEditor.setValue(currentValue);
@@ -854,7 +854,7 @@ data-event-label="high"
 
     
       try {
-        var currentValue = normalizeCurrentValue('REC_USE_LIM', "2020 — Area of hayfields and pastures — the sum of the area of land plots, information about which is entered into the State Land Cadastre with the land code (002.01 and 002.02) established by Annex №4 to the Procedure for maintaining the State Land Cadastre (PKMU №1051).");
+        var currentValue = normalizeCurrentValue('REC_USE_LIM', "2020-2021 — Area of hayfields and pastures — the sum of the area of land plots, information about which is entered into the State Land Cadastre with the land code (002.01 and 002.02) established by Annex № 4 to the Procedure for maintaining the State Land Cadastre (PKMU № 1051).");
         var propertyEditor = editor.getEditor('root.REC_USE_LIM');
         propertyEditor.setValue(null);
         propertyEditor.setValue(currentValue);
@@ -914,7 +914,7 @@ data-event-label="high"
 
     
       try {
-        var currentValue = normalizeCurrentValue('national_metadata_update_url', "https://github.com/ukraine-sdg/data/commit/739de1ca418b03a9596bbb137a6d9c7158f929b4");
+        var currentValue = normalizeCurrentValue('national_metadata_update_url', "https://github.com/ukraine-sdg/data/commit/51cd59dfa07a83d42d1fed50d21fd8081c1f5993");
         var propertyEditor = editor.getEditor('root.national_metadata_update_url');
         propertyEditor.setValue(null);
         propertyEditor.setValue(currentValue);
@@ -928,7 +928,7 @@ data-event-label="high"
 
     
       try {
-        var currentValue = normalizeCurrentValue('national_metadata_update_url_text', "2021-12-22: see changes on GitHub");
+        var currentValue = normalizeCurrentValue('national_metadata_update_url_text', "2022-12-18: see changes on GitHub");
         var propertyEditor = editor.getEditor('root.national_metadata_update_url_text');
         propertyEditor.setValue(null);
         propertyEditor.setValue(currentValue);
@@ -1072,12 +1072,12 @@ data-event-label="high"
 <script>translations['search'] = translations['search'] || {};
     translations['search']['search'] = 'Search';</script>
 
-<script src='/site/assets/js/sdg.js?v=20221218191809'></script>
+<script src='/site/assets/js/sdg.js?v=20221218193447'></script>
 
 
     
     
-    <script src="/site/assets/js/custom.js?v=20221218191809"></script><script>
+    <script src="/site/assets/js/custom.js?v=20221218193447"></script><script>
 $(function() {
     if($('#indicatorData').length) {
       var domData = $('#indicatorData').data();
