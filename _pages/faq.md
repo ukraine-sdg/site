@@ -29,7 +29,7 @@ The SDG indicators used to collect data to monitor the implementation of sustain
 We will add data as soon as they are received according to the dates specified by order No 686-p "issue related to data collection to monitor the implementation of sustainable development goals" of the Cabinet of Ministers of Ukraine of August 21, 2019, are validated.
 
 ## What disaggregations are available?
-The disaggregation of indicators is presented in order No 686-p "Issue related to data collection to monitor the implementation of sustainable development goals" of the Cabinet of Ministers of Ukraine of August 21, 2019. In order to find out more about all data breakdowns and methodology, please have a look at metadata on the SSSU official web site:  Sustainable development goals/ Information support to the SDGs monitoring, meta data [http://ukrstat.gov.ua/csr_prezent/metadata_e.htm](http://ukrstat.gov.ua/csr_prezent/metadata_e.htm).
+The disaggregation of indicators is presented in order No 686-p "Issue related to data collection to monitor the implementation of sustainable development goals" of the Cabinet of Ministers of Ukraine of August 21, 2019. In order to find out more about all data breakdowns and methodology, please have a look at metadata on the SSSU official web site:  Sustainable development goals/ Information support to the SDGs monitoring, meta data [https://ukrstat.gov.ua/csr_prezent/metadata_e.htm](https://ukrstat.gov.ua/csr_prezent/metadata_e.htm).
 
 ## What browsers can I use to check out this website?
 Our web site works with the most commonly used latest browsers versions. There could be some problems when using the site with old browsers versions.  
