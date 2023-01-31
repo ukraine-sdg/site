@@ -133,7 +133,7 @@ var translations = {
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" crossorigin="">
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" crossorigin="">
         <link rel="stylesheet" href="https://cdn.datatables.net/fixedcolumns/3.2.3/css/fixedColumns.dataTables.min.css" crossorigin="">
-        <link rel="stylesheet" href="/site/assets/css/style.css?v=20230131161020">
+        <link rel="stylesheet" href="/site/assets/css/style.css?v=20230131161931">
         <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.4/dist/leaflet.css"
           integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
           crossorigin=""/>
@@ -852,6 +852,18 @@ data-event-label="high"
 
     propertyEditorAccessibilityFixes(editor.getEditor('root.RATIONALE'));
 
+    
+      try {
+        var currentValue = normalizeCurrentValue('REC_USE_LIM', "Excluding the results of budgetary institutions. <br> 2021 — The information for 2021 was formed taking into account the data of initiative submitted reports of enterprises.");
+        var propertyEditor = editor.getEditor('root.REC_USE_LIM');
+        propertyEditor.setValue(null);
+        propertyEditor.setValue(currentValue);
+        
+      }
+      catch (e) {
+        console.log(e.message);
+        console.log('Unable to set config key: REC_USE_LIM');
+      }
     propertyEditorAccessibilityFixes(editor.getEditor('root.REC_USE_LIM'));
 
     propertyEditorAccessibilityFixes(editor.getEditor('root.DATA_COMP'));
@@ -874,7 +886,7 @@ data-event-label="high"
 
     
       try {
-        var currentValue = normalizeCurrentValue('national_data_update_url', "https://github.com/ukraine-sdg/data/commit/4929940f53a2390c524019ad82557db9af353805");
+        var currentValue = normalizeCurrentValue('national_data_update_url', "https://github.com/ukraine-sdg/data/commit/7a80842397bd6e2154259b61d21bcdb2b354eb6c");
         var propertyEditor = editor.getEditor('root.national_data_update_url');
         propertyEditor.setValue(null);
         propertyEditor.setValue(currentValue);
@@ -888,7 +900,7 @@ data-event-label="high"
 
     
       try {
-        var currentValue = normalizeCurrentValue('national_data_update_url_text', "2022-01-12: see changes on GitHub");
+        var currentValue = normalizeCurrentValue('national_data_update_url_text', "2023-01-31: see changes on GitHub");
         var propertyEditor = editor.getEditor('root.national_data_update_url_text');
         propertyEditor.setValue(null);
         propertyEditor.setValue(currentValue);
@@ -902,7 +914,7 @@ data-event-label="high"
 
     
       try {
-        var currentValue = normalizeCurrentValue('national_metadata_update_url', "https://github.com/ukraine-sdg/data/commit/03759edd1c203f09469181c3a310f58ab7e1c927");
+        var currentValue = normalizeCurrentValue('national_metadata_update_url', "https://github.com/ukraine-sdg/data/commit/693695e8453e939f9996554b5a77af7ff6c1a653");
         var propertyEditor = editor.getEditor('root.national_metadata_update_url');
         propertyEditor.setValue(null);
         propertyEditor.setValue(currentValue);
@@ -916,7 +928,7 @@ data-event-label="high"
 
     
       try {
-        var currentValue = normalizeCurrentValue('national_metadata_update_url_text', "2022-12-18: see changes on GitHub");
+        var currentValue = normalizeCurrentValue('national_metadata_update_url_text', "2023-01-31: see changes on GitHub");
         var propertyEditor = editor.getEditor('root.national_metadata_update_url_text');
         propertyEditor.setValue(null);
         propertyEditor.setValue(currentValue);
@@ -1060,12 +1072,12 @@ data-event-label="high"
 <script>translations['search'] = translations['search'] || {};
     translations['search']['search'] = 'Пошук';</script>
 
-<script src='/site/assets/js/sdg.js?v=20230131161020'></script>
+<script src='/site/assets/js/sdg.js?v=20230131161931'></script>
 
 
     
     
-    <script src="/site/assets/js/custom.js?v=20230131161020"></script><script>
+    <script src="/site/assets/js/custom.js?v=20230131161931"></script><script>
 $(function() {
     if($('#indicatorData').length) {
       var domData = $('#indicatorData').data();
