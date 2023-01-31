@@ -133,7 +133,7 @@ var translations = {
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" crossorigin="">
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" crossorigin="">
         <link rel="stylesheet" href="https://cdn.datatables.net/fixedcolumns/3.2.3/css/fixedColumns.dataTables.min.css" crossorigin="">
-        <link rel="stylesheet" href="/site/assets/css/style.css?v=20230131154231">
+        <link rel="stylesheet" href="/site/assets/css/style.css?v=20230131160015">
         <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.4/dist/leaflet.css"
           integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
           crossorigin=""/>
@@ -752,7 +752,7 @@ data-event-label="high"
 
     
       try {
-        var currentValue = normalizeCurrentValue('SDG_TARGET', "9.4 Promote accelerated development of high- and mediumtechnological sectors and manufacturing industries which are formed based on the use of ‘education–science–production’ chains and a cluster approach by areas — development of an innovation ecosystem; development of ICT; use of ICT in agriculture, energy, transport and industry; high-technology mechanical engineering; creation of new materials; development of pharmaceutical and bioengineering industry");
+        var currentValue = normalizeCurrentValue('SDG_TARGET', "9.4 Promote accelerated development of high- and medium-technological sectors and manufacturing industries which are formed based on the use of ‘education–science–production’ chains and a cluster approach by areas — development of an innovation ecosystem; development of ICT; use of ICT in agriculture, energy, transport and industry; high-technology mechanical engineering; creation of new materials; development of pharmaceutical and bioengineering industry");
         var propertyEditor = editor.getEditor('root.SDG_TARGET');
         propertyEditor.setValue(null);
         propertyEditor.setValue(currentValue);
@@ -852,6 +852,18 @@ data-event-label="high"
 
     propertyEditorAccessibilityFixes(editor.getEditor('root.RATIONALE'));
 
+    
+      try {
+        var currentValue = normalizeCurrentValue('REC_USE_LIM', "2021 — Indicators were not calculated. The disclosure of information will be resumed after the completion of the deadline for submission of statistical and financial reports established by the Law of Ukraine \"On Protection of Interests of Subjects of Reporting and Other Documents during Martial Law or War\".");
+        var propertyEditor = editor.getEditor('root.REC_USE_LIM');
+        propertyEditor.setValue(null);
+        propertyEditor.setValue(currentValue);
+        
+      }
+      catch (e) {
+        console.log(e.message);
+        console.log('Unable to set config key: REC_USE_LIM');
+      }
     propertyEditorAccessibilityFixes(editor.getEditor('root.REC_USE_LIM'));
 
     propertyEditorAccessibilityFixes(editor.getEditor('root.DATA_COMP'));
@@ -874,7 +886,7 @@ data-event-label="high"
 
     
       try {
-        var currentValue = normalizeCurrentValue('national_data_update_url', "https://github.com/ukraine-sdg/data/commit/3e2cbd827eea998889cf9190639b52d533dbc352");
+        var currentValue = normalizeCurrentValue('national_data_update_url', "https://github.com/ukraine-sdg/data/commit/9fcad957678ed20a0bba2620252e5700b6c6c23a");
         var propertyEditor = editor.getEditor('root.national_data_update_url');
         propertyEditor.setValue(null);
         propertyEditor.setValue(currentValue);
@@ -888,7 +900,7 @@ data-event-label="high"
 
     
       try {
-        var currentValue = normalizeCurrentValue('national_data_update_url_text', "2022-01-12: see changes on GitHub");
+        var currentValue = normalizeCurrentValue('national_data_update_url_text', "2023-01-31: see changes on GitHub");
         var propertyEditor = editor.getEditor('root.national_data_update_url_text');
         propertyEditor.setValue(null);
         propertyEditor.setValue(currentValue);
@@ -902,7 +914,7 @@ data-event-label="high"
 
     
       try {
-        var currentValue = normalizeCurrentValue('national_metadata_update_url', "https://github.com/ukraine-sdg/data/commit/7ceeeb51007e34f6de4a24cc905b8bb077c13dd3");
+        var currentValue = normalizeCurrentValue('national_metadata_update_url', "https://github.com/ukraine-sdg/data/commit/83e78ada262f652f160aa21546eb9f7c89413654");
         var propertyEditor = editor.getEditor('root.national_metadata_update_url');
         propertyEditor.setValue(null);
         propertyEditor.setValue(currentValue);
@@ -916,7 +928,7 @@ data-event-label="high"
 
     
       try {
-        var currentValue = normalizeCurrentValue('national_metadata_update_url_text', "2022-12-16: see changes on GitHub");
+        var currentValue = normalizeCurrentValue('national_metadata_update_url_text', "2023-01-31: see changes on GitHub");
         var propertyEditor = editor.getEditor('root.national_metadata_update_url_text');
         propertyEditor.setValue(null);
         propertyEditor.setValue(currentValue);
@@ -1060,12 +1072,12 @@ data-event-label="high"
 <script>translations['search'] = translations['search'] || {};
     translations['search']['search'] = 'Пошук';</script>
 
-<script src='/site/assets/js/sdg.js?v=20230131154231'></script>
+<script src='/site/assets/js/sdg.js?v=20230131160015'></script>
 
 
     
     
-    <script src="/site/assets/js/custom.js?v=20230131154231"></script><script>
+    <script src="/site/assets/js/custom.js?v=20230131160015"></script><script>
 $(function() {
     if($('#indicatorData').length) {
       var domData = $('#indicatorData').data();
