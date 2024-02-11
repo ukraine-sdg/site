@@ -133,7 +133,7 @@ var translations = {
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" crossorigin="">
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" crossorigin="">
         <link rel="stylesheet" href="https://cdn.datatables.net/fixedcolumns/3.2.3/css/fixedColumns.dataTables.min.css" crossorigin="">
-        <link rel="stylesheet" href="/site/assets/css/style.css?v=20240211214424">
+        <link rel="stylesheet" href="/site/assets/css/style.css?v=20240211220310">
         <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.4/dist/leaflet.css"
           integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
           crossorigin=""/>
@@ -854,7 +854,7 @@ data-event-label="high"
 
     
       try {
-        var currentValue = normalizeCurrentValue('REC_USE_LIM', "Excluding the results of budgetary institutions. <br> 2021 — The information for 2021 was formed taking into account the data of initiative submitted reports of enterprises.");
+        var currentValue = normalizeCurrentValue('REC_USE_LIM', "Data exclude the results of the activities of budgetary institutions; <br> For the years 2015-2021 exclude the temporarily occupied territory of the Autonomous Republic of Crimea, the city of Sevastopol and part of the temporarily occupied territories of the Donetsk and Luhansk regions. <br> Data for 2022 exclude the territories which are temporarily occupied by the russian federation and part of territories where the military actions are were conducted. <br> 2021-2022 — The information for 2021-2022 was formed on the basis of the reports actually submitted by the enterprises and the additional assessments of indicators.");
         var propertyEditor = editor.getEditor('root.REC_USE_LIM');
         propertyEditor.setValue(null);
         propertyEditor.setValue(currentValue);
@@ -914,7 +914,7 @@ data-event-label="high"
 
     
       try {
-        var currentValue = normalizeCurrentValue('national_metadata_update_url', "https://github.com/ukraine-sdg/data/commit/693695e8453e939f9996554b5a77af7ff6c1a653");
+        var currentValue = normalizeCurrentValue('national_metadata_update_url', "https://github.com/ukraine-sdg/data/commit/47a68d711052bbf6e36b07d93298d367a4852805");
         var propertyEditor = editor.getEditor('root.national_metadata_update_url');
         propertyEditor.setValue(null);
         propertyEditor.setValue(currentValue);
@@ -928,7 +928,7 @@ data-event-label="high"
 
     
       try {
-        var currentValue = normalizeCurrentValue('national_metadata_update_url_text', "2023-01-31: see changes on GitHub");
+        var currentValue = normalizeCurrentValue('national_metadata_update_url_text', "2024-02-11: see changes on GitHub");
         var propertyEditor = editor.getEditor('root.national_metadata_update_url_text');
         propertyEditor.setValue(null);
         propertyEditor.setValue(currentValue);
@@ -1072,12 +1072,12 @@ data-event-label="high"
 <script>translations['search'] = translations['search'] || {};
     translations['search']['search'] = 'Пошук';</script>
 
-<script src='/site/assets/js/sdg.js?v=20240211214424'></script>
+<script src='/site/assets/js/sdg.js?v=20240211220310'></script>
 
 
     
     
-    <script src="/site/assets/js/custom.js?v=20240211214424"></script><script>
+    <script src="/site/assets/js/custom.js?v=20240211220310"></script><script>
 $(function() {
     if($('#indicatorData').length) {
       var domData = $('#indicatorData').data();
