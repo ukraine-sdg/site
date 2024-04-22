@@ -133,7 +133,7 @@ var translations = {
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css" crossorigin="">
         <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" crossorigin="">
         <link rel="stylesheet" href="https://cdn.datatables.net/fixedcolumns/3.2.3/css/fixedColumns.dataTables.min.css" crossorigin="">
-        <link rel="stylesheet" href="/site/assets/css/style.css?v=20240422094343">
+        <link rel="stylesheet" href="/site/assets/css/style.css?v=20240422102001">
         <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.4/dist/leaflet.css"
           integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
           crossorigin=""/>
@@ -854,7 +854,7 @@ data-event-label="high"
 
     
       try {
-        var currentValue = normalizeCurrentValue('REC_USE_LIM', "Ukraine – Calculated without taking into account relevant data for the Donetsk and Luhansk regions. <br> Donetsk, Luhansk – Due to the lack of information on some temporarily occupied territories in the Donetsk and Luhansk regions, the calculation of relative indicators for the Donetsk and Luhansk regions is incorrect. <br> 2022 — The disclosure of information will be resumed after the completion of the deadline for submission of statistical and financial reports established by the Law of Ukraine \"On Protection of Interests of Subjects of Reporting and Other Documents during Martial Law or War\".");
+        var currentValue = normalizeCurrentValue('REC_USE_LIM', "Ukraine — Calculated without taking into account relevant data for the Donetsk and Luhansk regions. <br> Donetsk, Luhansk — Due to the lack of information on some temporarily occupied territories in the Donetsk and Luhansk regions, the calculation of relative indicators for the Donetsk and Luhansk regions is incorrect. <br> 2022 — The disclosure of information will be resumed after the completion of the deadline for submission of statistical and financial reports established by the Law of Ukraine \"On Protection of Interests of Subjects of Reporting and Other Documents during Martial Law or War\".");
         var propertyEditor = editor.getEditor('root.REC_USE_LIM');
         propertyEditor.setValue(null);
         propertyEditor.setValue(currentValue);
@@ -914,7 +914,7 @@ data-event-label="high"
 
     
       try {
-        var currentValue = normalizeCurrentValue('national_metadata_update_url', "https://github.com/ukraine-sdg/data/commit/6c701ccb668f2e7c9f45b03b2283099ba4fb766e");
+        var currentValue = normalizeCurrentValue('national_metadata_update_url', "https://github.com/ukraine-sdg/data/commit/e85bdf4e117caafd95743f3ad644b18145d852a1");
         var propertyEditor = editor.getEditor('root.national_metadata_update_url');
         propertyEditor.setValue(null);
         propertyEditor.setValue(currentValue);
@@ -928,7 +928,7 @@ data-event-label="high"
 
     
       try {
-        var currentValue = normalizeCurrentValue('national_metadata_update_url_text', "2024-04-14: see changes on GitHub");
+        var currentValue = normalizeCurrentValue('national_metadata_update_url_text', "2024-04-22: see changes on GitHub");
         var propertyEditor = editor.getEditor('root.national_metadata_update_url_text');
         propertyEditor.setValue(null);
         propertyEditor.setValue(currentValue);
@@ -1072,12 +1072,12 @@ data-event-label="high"
 <script>translations['search'] = translations['search'] || {};
     translations['search']['search'] = 'Пошук';</script>
 
-<script src='/site/assets/js/sdg.js?v=20240422094343'></script>
+<script src='/site/assets/js/sdg.js?v=20240422102001'></script>
 
 
     
     
-    <script src="/site/assets/js/custom.js?v=20240422094343"></script><script>
+    <script src="/site/assets/js/custom.js?v=20240422102001"></script><script>
 $(function() {
     if($('#indicatorData').length) {
       var domData = $('#indicatorData').data();
